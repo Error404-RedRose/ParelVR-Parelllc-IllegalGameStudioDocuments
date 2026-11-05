@@ -1,0 +1,164 @@
+================================================================================
+DOCUMENT 11 - INVOLVED PARTIES AND CASE REGISTER
+================================================================================
+
+READ THIS FIRST
+--------------------------------------------------------------------------------
+This register identifies the organisations and people referred to in the archive. It
+is a working index, not a finding of fact and not a court order.
+
+Naming rules (mandatory):
+1. Do not publish a private individual's legal name unless it is already public or
+   the person has given written consent.
+2. Do not publish addresses, phone numbers, government identifiers, family members,
+   employers or other personal data. This is doxxing and may be unlawful.
+3. Use the platform username as the primary identifier until a legal name is
+   verified and consented to.
+4. If a person is a minor, do not name them at all.
+5. Every entry must state the source of the information and whether it is verified.
+6. Allegations must be labelled as allegations. Do not state guilt as fact.
+7. A person who is named has a right of reply; record their response when received.
+
+The register is intentionally incomplete. Other organisations and members have not
+yet filed their documents. New entries should be added by pull request or by
+opening an Issue using the template in .github/ISSUE_TEMPLATE/.
+
+--------------------------------------------------------------------------------
+TABLE A - ORGANISATIONS
+--------------------------------------------------------------------------------
+Ref   Organisation        Role in archive                 Jurisdiction   Status
+--------------------------------------------------------------------------------
+A-01  Parelllc            Subject of the allegations.     United States  Named
+                          Described as a freelancer       (asserted)     subject;
+                          platform, not an authorised                    allegations
+                          game studio.                                   only.
+A-02  ParelVR             Game/product published by       United States  Named
+                          Parelllc.                       (asserted)     product.
+A-03  Twilight Studio     Complainant's freelance game    Not disclosed  Participant;
+                          studio (Document 02). One                      one of many.
+                          participant only; no ownership
+                          claim over Parelllc/ParelVR.
+A-04  ChilloutVR         Stated supplier of a framework  Not stated     Third party;
+                          licensed for private use only.                 referenced.
+A-05  VRChat              Named as a party in dispute     United States  Third party;
+                          and as source of allegedly                     referenced.
+                          illicit modifications.
+A-06  Five unnamed VR     Stated to be part of a          Not stated     Pending.
+      game providers      consolidated case (Document 03).
+A-07  Jinxxy              Used only as a comparison       Not stated     Example only.
+                          example for the meeting policy.
+A-08  Gumroad             Used only as a comparison       Not stated     Example only.
+                          example for the meeting policy.
+A-09  [Organisation 1]    Documents being gathered.       [To supply]    Pending.
+A-10  [Organisation 2]    Documents being gathered.       [To supply]    Pending.
+A-11  [Organisation 3]    Documents being gathered.       [To supply]    Pending.
+
+--------------------------------------------------------------------------------
+TABLE B - INDIVIDUALS AND USERNAMES
+--------------------------------------------------------------------------------
+Ref   Username            Legal name                  Role / notes
+--------------------------------------------------------------------------------
+B-01  Crispy / Gremix     Not supplied.               CEO and registered owner of
+                          Do not publish without      Parelllc; described as 18
+                          public source or consent.   years old; operates two
+                                                      Discord identities (the
+                                                      identity link is alleged in
+                                                      Document 07).
+B-02  eyeballs            Not supplied.               Complainant; previously
+                          Do not publish without      operated under this name;
+                          public source or consent.   representative of Twilight
+                                                      Studio (Document 02).
+B-03  KittyFangs.exe      Not supplied.               Author of the three public
+                          Do not publish without      statements (Documents 04-06).
+                          public source or consent.
+B-04  [Member username]   [To supply]                 Alleged banned member.
+B-05  [Member username]   [To supply]                 Alleged banned member.
+B-06  [Member username]   [To supply]                 Holder of sealed documents.
+
+Note: No legal names are asserted in this archive. The usernames above are the
+identifiers used in the source documents. Adding a legal name requires a public
+source or written consent, recorded in the entry.
+
+--------------------------------------------------------------------------------
+TABLE C - SEALED AND PRIVATE DOCUMENTS
+--------------------------------------------------------------------------------
+Ref   Holder              Document                        Status
+--------------------------------------------------------------------------------
+C-01  Other members       Sealed documents on similar     Referred to; not published.
+                          issues (Document 01).
+C-02  Affected members    DM records with the CEO.        Referred to; not published.
+C-03  Affected orgs       Publicly saved posts/documents. Partially quoted in 03-06.
+C-04  Complainant         Internal communications.        Referred to; not published.
+C-05  Affected members     Seven screenshots (Doc. 07).    Referred to; not provided.
+C-06  [Holder]            [Document name]                 [To supply].
+
+Rule: if you hold sealed or private records, publish a summary and state that the
+originals are held privately. Do not upload private communications without the
+consent of every participant, and never upload identity documents or personal data.
+
+--------------------------------------------------------------------------------
+CASE REGISTER - ENTRY TEMPLATE
+--------------------------------------------------------------------------------
+Copy this block for each new report.
+
+CASE ID:            [e.g., CASE-2026-001]
+DATE OPENED:        [YYYY-MM-DD]
+ORGANISATION:       [name]
+USERNAME(S):        [platform handles]
+LEGAL NAME:         [only if public/consented; otherwise "withheld"]
+ROLE:               [developer / contractor / user / investor / organisation]
+JURISDICTION:       [country/state]
+ALLEGATION(S):      [one sentence per allegation; label as alleged]
+DATE(S) OF ACTS:    [dates or range]
+EVIDENCE HELD:      [contracts / DMs / invoices / logs / screenshots]
+EVIDENCE STATUS:    [private / sealed / public / filed with counsel]
+LOSS CLAIMED:       [unpaid amount / credit / data / reputational]
+RELIEF SOUGHT:      [payment / credit / reinstatement / correction / other]
+RESPONSE FROM CEO:  [none / date / summary]
+PUBLICATION STATUS: [anonymous / username only / named with consent]
+RELATED DOCUMENTS:  [Document numbers]
+NOTES:              [anything else]
+
+--------------------------------------------------------------------------------
+HOW TO ADD YOUR REPORT
+--------------------------------------------------------------------------------
+1. Open the repository's Issues tab.
+2. Choose "Abuse / Misconduct Report".
+3. Complete the template fields.
+4. Attach or link evidence. Do not upload private data you are not authorised to
+   share.
+5. State whether you consent to your username or legal name being published.
+6. A maintainer will triage the report and, where appropriate, add it to this
+   register.
+
+Reports may be submitted anonymously. Anonymous reports can still be cited, but they
+carry less weight in court than signed statements with preserved evidence.
+
+--------------------------------------------------------------------------------
+WHAT MAKES AN ENTRY USABLE IN COURT
+--------------------------------------------------------------------------------
+- A signed or authenticated statement from the person who experienced the conduct.
+- Original, unedited records with timestamps and metadata.
+- Contracts, invoices, receipts and payment records.
+- Consistent dates and names across documents.
+- A clear chain of custody: who obtained the record, when, and how.
+- Corroboration from independent witnesses or organisations.
+- A documented response (or non-response) from the CEO.
+- Evidence of loss: unpaid amounts, removed credit, deleted content, lost work.
+
+Two weak entries do not become strong because they are repeated. Precision matters
+more than volume.
+
+--------------------------------------------------------------------------------
+PRIVACY AND SAFETY
+--------------------------------------------------------------------------------
+- Do not post threats, slurs or incitement.
+- Do not post sexual content, medical records or identity documents.
+- Do not name family members, minors or unrelated third parties.
+- If you fear retaliation, report anonymously and keep originals in a safe place.
+- If you are in immediate danger, contact local emergency services, not this
+  repository.
+
+================================================================================
+END OF DOCUMENT 11
+================================================================================

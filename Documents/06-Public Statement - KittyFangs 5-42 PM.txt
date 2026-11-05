@@ -1,0 +1,48 @@
+================================================================================
+DOCUMENT 06 - PUBLIC STATEMENT
+AUTHOR: KITTYFANGS.EXE (OP)
+POSTED: 5:42 PM
+================================================================================
+
+Context: Reproduced as part of the public-notice archive (Documents 01-11). This is
+the author's statement, not a court order or finding of fact. It is not a claim of
+ownership by Twilight Studio over Parelllc or ParelVR.
+
+--------------------------------------------------------------------------------
+
+This system exemplifies a game development project that fails to expand and
+instead harms all participants. Leadership exploits personal connections and
+financial resources, relying on a friend's funding rather than its own capital.
+The friend expects a return on investment, yet each day brings the project
+closer to termination due to the leader's abusive behavior and arbitrary bans,
+even for minor language infractions. Such actions erase years of developers'
+work and undermine organizational collaboration, contrary to best practices for
+sustainable growth.
+
+The leader now depends on AI-generated code because he refuses to integrate
+other organizations or new team members, while continuing to misuse his friend's
+money and time. This dynamic strains the friend's trust, as competent developers
+are expelled for voicing dissent. The service host has noted these concerns, and
+the financial flow to the leader appears questionable, resembling a mismanaged
+corporate structure.
+
+It is imperative that the project's leadership:
+
+  - Acknowledge and credit all contributors appropriately.
+  - Cease unlawful dismissal of developers without proper compensation.
+  - Reallocate funds responsibly, honoring the financial contributions made by
+    collaborators.
+  - Establish transparent, consistent moderation and policy guidelines that the
+    leader also adheres to.
+  - Address contractual obligations and rectify any misappropriation of work or
+    data.
+  - Consider discontinuing the project if these corrective measures are not
+    implemented, thereby protecting the interests of investors and developers.
+
+Failure to address these issues will likely provoke strong reactions from the
+server host, the funding friend, and external observers, potentially leading to
+legal ramifications and loss of credibility for the organization.
+
+================================================================================
+END OF DOCUMENT 06
+================================================================================

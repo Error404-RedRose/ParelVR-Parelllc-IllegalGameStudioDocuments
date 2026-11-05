@@ -1,0 +1,125 @@
+================================================================================
+DOCUMENT 01 - EXECUTIVE SUMMARY / PUBLIC NOTICE
+PARELLLC / PARELLVR - SYSTEMIC MISCONDUCT
+================================================================================
+
+Status: Uncompiled public-notice record. Allegations only. Not a court order, not a
+lawsuit, not a finding of fact, and not legal advice. See the repository README for
+the full notice and right of reply.
+
+WHAT THIS IS
+--------------------------------------------------------------------------------
+This repository is a public notice file. It records allegations of abuse of power by
+the CEO of Parelllc / ParelVR, who operates inside Discord under the names "Gremix"
+and "Crispy".
+
+It is NOT:
+- a claim by Twilight Studio of ownership over Parelllc, ParelVR or their products;
+- a lawsuit, injunction, court order or judgment;
+- a statement that any allegation has been proven;
+- a private dispute between Twilight Studio and Parelllc.
+
+It IS:
+- a public record of concerns raised by multiple organisations, studios, developers,
+  freelancers, investors and users;
+- an invitation for the CEO to respond and resolve the issues before publication;
+- a place where affected parties can add their own documentation and open Issues.
+
+The complainant (previously "eyeballs", of Twilight Studio) is ONE participant. Many
+other organisations and individuals report the same pattern and have not yet filed
+their documents here. This archive will grow as those records are contributed.
+
+WHAT THIS IS NOT ABOUT
+--------------------------------------------------------------------------------
+This is not Twilight Studio versus Parelllc. Twilight Studio does not claim ownership
+of Parelllc, ParelVR, their code, their worlds or their products. Twilight Studio is
+one affected contractor among many. The subject is the conduct of the leadership and
+whether affected parties can obtain resolution without litigation.
+
+THE ALLEGED PATTERN
+--------------------------------------------------------------------------------
+1. Policy imposed outside contract
+   Unannounced "emergency meetings" enforced against freelancers and partner studios,
+   with a 1/3 strike for missing them or not "saying hi", without a formal contract,
+   notice or consent.
+
+2. Bans without justification
+   Members banned without discussion, a stated breach or an appeal, described as
+   retaliation rather than discipline.
+
+3. Fraud and illegally edited content
+   Contributed work, credit, records and funds allegedly taken, edited or removed;
+   contributors' names and existence erased while ownership is claimed.
+
+4. Failure to cooperate and return
+   The CEO allegedly fails to address concerns, cooperate with affected parties, or
+   return and account for invested time, money, work and property.
+
+5. Pressure on investors and partners
+   Private funding expected to return a profit while partner studios, contractors and
+   users are expelled for raising lawful concerns.
+
+6. Security overreach
+   A Linux server allegedly running hacking tools that give the owner full access to
+   and control over connected PCs.
+
+WHO IS AFFECTED
+--------------------------------------------------------------------------------
+- Multiple VR and game organisations reporting the same experience with the same CEO.
+- Freelancers and contractors banned after disputing policy.
+- Contributors whose work, credit or compensation is alleged to have been removed.
+- Investors and backers whose funds are alleged to be at risk.
+- Members and users who hold sealed or DM documentation of comparable treatment.
+- The complainant, who previously used the name "eyeballs".
+
+The register in Document 11 records the parties and organisations identified so far,
+including those whose documents are still being gathered. Legal names are only listed
+where they are public or have been provided with consent and verification.
+
+EVIDENCE BEING GATHERED
+--------------------------------------------------------------------------------
+- Direct-message (DM) records between affected members and the CEO.
+- Publicly saved documents and posts concerning Parelllc.
+- Sealed documents held by other members and organisations.
+- Internal communications described as clear evidence of the alleged violations.
+- Discord archive records.
+- Screenshots referenced in the supplementary exchange (Document 07).
+- Records from Steam publication, contracts, invoices and payment flows.
+
+Because several records are sealed or privately held, this repository is an index and
+a statement of allegations, not a complete evidence set.
+
+NOTICE BEFORE PUBLICATION
+--------------------------------------------------------------------------------
+The CEO is asked to resolve the issues before the game is released on Steam. The
+concerns are described as accumulating: unresolved bans, unpaid or uncredited work,
+allegedly misappropriated code, illegal ports, and policies imposed without contract.
+If they remain unresolved at publication, affected parties state they will cite them
+in public reviews, platform reports and, where counsel advises, court filings.
+
+This is a notice and an opportunity to respond. It is not a threat.
+
+WHAT THE ARCHIVE ASKS FOR
+--------------------------------------------------------------------------------
+- A response from the CEO and Parelllc leadership to every affected party.
+- Cooperation with all organisations and members, not only the complainant.
+- Restoration or compensation for work, funds, credit and property taken.
+- Withdrawal of policies imposed outside contract.
+- Transparent, consistent moderation that leadership also follows.
+- Preservation of all DM, public and sealed records pending resolution.
+- No retaliation against anyone who contributes a report.
+
+SOURCE DOCUMENTS
+--------------------------------------------------------------------------------
+- Document 02 - the complainant's formal complaint (one case study).
+- Document 03 - the Professional Statement.
+- Documents 04-06 - public statements by KittyFangs.exe (OP).
+- Document 07 - supplementary Discord exhibit (background only).
+- Document 08 - timeline and key facts.
+- Document 09 - United States legal framework and authorities.
+- Document 10 - international and common-law framework and authorities.
+- Document 11 - involved parties and case register.
+
+================================================================================
+END OF DOCUMENT 01
+================================================================================

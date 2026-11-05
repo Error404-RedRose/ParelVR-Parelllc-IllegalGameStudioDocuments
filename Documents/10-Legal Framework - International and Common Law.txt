@@ -1,0 +1,306 @@
+================================================================================
+DOCUMENT 10 - LEGAL FRAMEWORK: INTERNATIONAL AND COMMON LAW
+POTENTIAL AUTHORITIES OUTSIDE THE UNITED STATES
+================================================================================
+
+READ THIS FIRST
+--------------------------------------------------------------------------------
+This is a research index, not legal advice and not a court order. It lists statutes,
+regulations and instruments that counsel may evaluate if the facts alleged in
+Documents 01-08 are proven. Listing an instrument does not mean it applies, that a
+claim will succeed, or that any court or regulator has ruled. Applicability depends
+on where the affected person works, where the service is offered, the contracts in
+place and the choice-of-law clauses. Verify the current text with a lawyer qualified
+in the relevant jurisdiction.
+
+Common-law jurisdictions covered: United Kingdom, Canada (common-law provinces),
+Australia, New Zealand and Ireland. The European Union is included because it sets
+mandatory rules for services offered to EU users, and because Ireland is both
+common-law and EU. Quebec and Scotland are mixed/civil-law systems and are noted
+where relevant.
+
+--------------------------------------------------------------------------------
+1. UNITED KINGDOM
+--------------------------------------------------------------------------------
+Employment and worker status
+- Employment Rights Act 1996 (ERA 1996):
+  - Unfair dismissal, s.94; qualifying period generally 2 years, s.108.
+  - Automatically unfair dismissal for whistleblowing, s.103A.
+  - Detriment for whistleblowing, s.47B; remedy s.48.
+  - Written particulars, s.1.
+- Public Interest Disclosure Act 1998 (inserted the whistleblowing provisions into
+  ERA 1996).
+- Working Time Regulations 1998 (SI 1998/1833).
+- National Minimum Wage Act 1998.
+- Employment Relations Act 1999.
+- Trade Union and Labour Relations (Consolidation) Act 1992.
+- Status: "worker" is broader than "employee" (Uber BV v Aslam [2021] UKSC 5).
+  Many gig and freelance arrangements can still attract worker protections.
+
+Equality and harassment
+- Equality Act 2010 (protected characteristics; harassment ss.26-27; victimisation
+  s.27).
+- Protection from Harassment Act 1997 (civil and criminal; course of conduct).
+
+Commercial and corporate
+- Companies Act 2006: directors' duties ss.171-177, including s.172 (promote the
+  success of the company) and s.174 (reasonable care, skill and diligence).
+- Insolvency Act 1986: s.212 (misfeasance), s.214 (wrongful trading), s.238-239
+  (transactions at an undervalue/preferences).
+- Bribery Act 2010.
+- Modern Slavery Act 2015 (supply-chain statements).
+- Fraud Act 2006: s.1 fraud; s.2 false representation; s.3 failing to disclose;
+  s.4 abuse of position.
+- Computer Misuse Act 1990: ss.1-3 (unauthorised access, unauthorised acts,
+  unauthorised access with intent).
+- Consumer Rights Act 2015 (digital content; goods; services).
+- Online Safety Act 2023 (illegal and harmful content; age assurance).
+
+Intellectual property and data
+- Copyright, Designs and Patents Act 1988 (CDPA 1988).
+- Trade Marks Act 1994.
+- Defamation Act 2013 (serious harm threshold, s.1; truth s.2; honest opinion s.3;
+  public interest s.4; website operators s.5).
+- Data Protection Act 2018 and UK GDPR.
+- Limitation Act 1980: contract and tort generally 6 years; defamation 1 year.
+
+--------------------------------------------------------------------------------
+2. CANADA
+--------------------------------------------------------------------------------
+Federal
+- Canada Labour Code, R.S.C. 1985, c. L-2 (Part III labour standards; unjust
+  dismissal for federally regulated employers).
+- Canadian Human Rights Act, R.S.C. 1985, c. H-6.
+- Competition Act, R.S.C. 1985, c. C-34 (false advertising, deceptive marketing).
+- Personal Information Protection and Electronic Documents Act (PIPEDA), S.C. 2000,
+  c. 5.
+- Copyright Act, R.S.C. 1985, c. C-42.
+- Criminal Code, R.S.C. 1985, c. C-46: s.380 fraud; s.362 false pretence; s.264
+  criminal harassment; s.342.1 unauthorised use of computer.
+
+Ontario (example province)
+- Employment Standards Act, 2000, S.O. 2000, c. 41 (minimum standards, termination
+  pay, reprisal).
+- Occupational Health and Safety Act, R.S.O. 1990, c. O.1 (reprisal).
+- Human Rights Code, R.S.O. 1990, c. H.19.
+- Libel and Slander Act, R.S.O. 1990, c. L.12.
+
+Quebec (civil law)
+- Civil Code of Québec (obligations, contract, extracontractual liability).
+- Act respecting labour standards, CQLR c. N-1.1.
+- Charter of Human Rights and Freedoms, CQLR c. C-12.
+
+--------------------------------------------------------------------------------
+3. AUSTRALIA
+--------------------------------------------------------------------------------
+- Fair Work Act 2009 (Cth):
+  - General protections, Part 3-1 (ss.340-352), including adverse action for
+    exercising a workplace right.
+  - Sham contracting, s.357.
+  - Discrimination, s.351.
+  - Unfair dismissal, s.772; qualifying periods apply.
+- Corporations Act 2001 (Cth): directors' duties ss.180-184 (care and diligence,
+  good faith, improper use of position, improper use of information).
+- Competition and Consumer Act 2010 (Cth), Schedule 2 (Australian Consumer Law):
+  s.18 misleading or deceptive conduct; s.29 false representations; unfair contract
+  terms.
+- Privacy Act 1988 (Cth), including the Notifiable Data Breaches scheme.
+- Copyright Act 1968 (Cth).
+- Online Safety Act 2021 (Cth).
+- Criminal Code Act 1995 (Cth): fraudulent conduct provisions (Div 134) and
+  computer offences (Part 10.7).
+- State and territory work health and safety, discrimination and defamation laws.
+
+--------------------------------------------------------------------------------
+4. NEW ZEALAND
+--------------------------------------------------------------------------------
+- Employment Relations Act 2000 (unjustified dismissal, personal grievances,
+  good-faith obligations).
+- Holidays Act 2003; Minimum Wage Act 1983.
+- Fair Trading Act 1986: s.9 misleading or deceptive conduct; s.13 false
+  representations.
+- Privacy Act 2020.
+- Harmful Digital Communications Act 2015.
+- Copyright Act 1994.
+- Companies Act 1993: directors' duties ss.131-138.
+- Consumer Guarantees Act 1993.
+- Crimes Act 1961: s.228 dishonestly taking or using a document; s.240 obtaining by
+  deception; s.249 accessing a computer system for dishonest purpose.
+- Defamation Act 1992.
+
+--------------------------------------------------------------------------------
+5. IRELAND
+--------------------------------------------------------------------------------
+- Unfair Dismissals Act 1977 (as amended).
+- Protected Disclosures Act 2014 (as amended 2022).
+- Employment Equality Acts 1998-2015.
+- Organisation of Working Time Act 1997.
+- National Minimum Wage Act 2000.
+- Data Protection Act 2018 and the GDPR.
+- Defamation Act 2009.
+- Companies Act 2014: directors' duties ss.227-233.
+- Consumer Protection Act 2007.
+- Central Bank and financial-services rules where investment is involved.
+
+--------------------------------------------------------------------------------
+6. EUROPEAN UNION
+--------------------------------------------------------------------------------
+Data and platform rules
+- General Data Protection Regulation (EU) 2016/679 (GDPR): lawful basis, Art. 6;
+  transparency, Arts. 12-14; access, Art. 15; erasure, Art. 17; security, Art. 32;
+  remedies, Art. 79-82.
+- Digital Services Act, Regulation (EU) 2022/2065 (notice-and-action, transparency,
+  risk assessments, researcher access).
+- Platform Work Directive (EU) 2024/2831 (algorithmic management, employment
+  status presumption; transposition by 2 December 2026).
+
+Employment and contract
+- Directive (EU) 2019/1152 on transparent and predictable working conditions.
+- Written Statement Directive (replaced by 2019/1152).
+- Posting of Workers Directive 96/71/EC and Enforcement Directive 2014/67/EU.
+- Rome I Regulation (EC) 593/2008 (choice of law in contracts).
+- Rome II Regulation (EC) 864/2007 (non-contractual obligations).
+- Brussels I bis Regulation (EU) 1215/2012 (jurisdiction and enforcement).
+
+Consumer and commercial
+- Unfair Commercial Practices Directive 2005/29/EC.
+- Consumer Rights Directive 2011/83/EU.
+- Digital Content and Digital Services Directive (EU) 2019/770.
+- Unfair Contract Terms Directive 93/13/EEC.
+- Copyright in the Digital Single Market Directive (EU) 2019/790.
+- Trade Secrets Directive (EU) 2016/943.
+- eCommerce Directive 2000/31/EC (largely replaced by the DSA).
+
+Fundamental rights
+- Charter of Fundamental Rights of the European Union: Art. 7 (private life), Art. 8
+  (data protection), Art. 21 (non-discrimination), Art. 31 (fair and just working
+  conditions), Art. 47 (effective remedy).
+- European Convention on Human Rights (Council of Europe): Art. 6 (fair trial),
+  Art. 8 (private life), Art. 10 (expression), Art. 11 (association).
+- European Social Charter (revised, 1996).
+
+--------------------------------------------------------------------------------
+7. INTERNATIONAL INSTRUMENTS
+--------------------------------------------------------------------------------
+Human rights
+- Universal Declaration of Human Rights (1948): Art. 17 (property), Art. 19
+  (expression), Art. 20 (association), Art. 23 (work and fair pay), Art. 24 (rest).
+- International Covenant on Civil and Political Rights (1966): Art. 17 (privacy),
+  Art. 19 (expression), Art. 22 (association).
+- International Covenant on Economic, Social and Cultural Rights (1966): Art. 6
+  (right to work), Art. 7 (fair working conditions), Art. 8 (trade unions).
+
+Labour
+- ILO Convention C87 (Freedom of Association and Protection of the Right to
+  Organise, 1948).
+- ILO C98 (Right to Organise and Collective Bargaining, 1949).
+- ILO C100 (Equal Remuneration, 1951).
+- ILO C111 (Discrimination, 1958).
+- ILO C138 (Minimum Age, 1973).
+- ILO C182 (Worst Forms of Child Labour, 1999).
+- ILO C158 (Termination of Employment, 1982).
+- ILO C175 (Part-Time Work, 1994).
+- ILO C177 (Home Work, 1996).
+
+Soft law and guidance
+- UN Guiding Principles on Business and Human Rights (2011).
+- OECD Guidelines for Multinational Enterprises (2023 edition).
+- ILO Declaration on Fundamental Principles and Rights at Work (1998, amended 2022).
+
+Cross-border enforcement
+- New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards
+  (1958).
+- Hague Service Convention (1965).
+- Hague Choice of Court Convention (2005).
+- Brussels I bis (EU) for judgments within the EU.
+- There is no general US-UK judgments treaty; enforcement is by comity and state
+  law.
+
+--------------------------------------------------------------------------------
+8. GAME-SPECIFIC AND CONSUMER ISSUES OUTSIDE THE US
+--------------------------------------------------------------------------------
+- UK Consumer Rights Act 2015: digital content must be of satisfactory quality,
+  fit for purpose and as described; remedies include repair, replacement, price
+  reduction and refund.
+- EU Digital Content Directive (EU) 2019/770: conformity, remedies, modification
+  rights.
+- EU/UK consumer protection: misleading advertising, dark patterns and unfair terms.
+- UK Online Safety Act 2023 and EU Digital Services Act 2022/2065: content
+  moderation, notice-and-action, transparency and risk assessment.
+- Age ratings: PEGI (Europe), ESRB (North America), USK (Germany), CERO (Japan),
+  ACB (Australia) - self-regulatory but contractually enforced by platforms.
+- Platform distribution agreements (Steam, Epic, consoles) impose content,
+  licensing and refund obligations that are contractual.
+
+--------------------------------------------------------------------------------
+9. MAPPING: ALLEGATION -> POTENTIAL NON-US AUTHORITY
+--------------------------------------------------------------------------------
+Allegation                                   Potential authority
+--------------------------------------------------------------------------------
+Unpaid freelance work                        UK: ERA 1996 / contract; Canada: ESA 2000
+                                             (Ont.) / Civil Code (Que.); Australia:
+                                             Fair Work Act 2009; NZ: ERA 2000
+Banned after raising a concern               UK: ERA 1996 ss.103A, 47B; Ireland:
+                                             Protected Disclosures Act 2014;
+                                             Australia: Fair Work Act Pt 3-1;
+                                             Canada: ESA reprisal provisions
+Unannounced meetings / penalties             UK: WTR 1998; Australia: Fair Work Act;
+                                             EU: Directive 2019/1152; contract
+Discrimination or harassment                 UK: Equality Act 2010; Canada: human
+                                             rights codes; Australia: Fair Work Act
+                                             s.351; EU: Charter Art. 21
+Removed credit / erased authorship           UK: CDPA 1988; Canada: Copyright Act;
+                                             Australia: Copyright Act 1968; EU: DSM
+                                             Directive 2019/790; Berne Convention
+Ported worlds / reused framework             Copyright and licence breach in every
+                                             listed jurisdiction; EU Trade Secrets
+                                             Directive 2016/943
+"Claude rewrite" claimed as original         Copyright authorship/derivative work;
+                                             consumer protection (misleading conduct)
+Funds diverted / investors misled            UK: Fraud Act 2006; Canada: Criminal
+                                             Code s.380; Australia: Div 134; NZ:
+                                             Crimes Act 1961 s.240; EU: UCPD
+Server hacking tools / PC access             UK: Computer Misuse Act 1990; Canada:
+                                             Criminal Code s.342.1; Australia:
+                                             Criminal Code Part 10.7; NZ: Crimes Act
+                                             s.249; EU: national computer-crime laws
+Coordinated exclusion of studios             EU/UK competition law; Australia: ACL;
+                                             Canada: Competition Act
+Defamatory statements                        UK: Defamation Act 2013; Canada:
+                                             provincial libel acts; Australia:
+                                             state defamation Acts; NZ: Defamation
+                                             Act 1992; Ireland: Defamation Act 2009
+
+--------------------------------------------------------------------------------
+10. HUMAN-RIGHTS AND BUSINESS-CONDUCT FRAMING
+--------------------------------------------------------------------------------
+Where a statute does not fit, the archive may still rely on human-rights and
+business-conduct standards in advocacy, regulatory complaints and ESG reporting:
+
+- Right to fair working conditions: UDHR Art. 23; ICESCR Art. 7; EU Charter
+  Art. 31.
+- Freedom of expression and association: UDHR Arts. 19-20; ICCPR Arts. 19, 22;
+  ECHR Arts. 10-11.
+- Privacy and data protection: UDHR Art. 12; ICCPR Art. 17; GDPR; ECHR Art. 8.
+- Property and credit: UDHR Art. 17; national copyright and contract law.
+- Business and human rights: UN Guiding Principles (2011); OECD Guidelines (2023).
+- Labour rights: ILO core conventions.
+
+These instruments are persuasive and, in some countries, directly enforceable
+against public bodies. Against a private company they are strongest when combined
+with a domestic statute, a regulator complaint or a platform policy report.
+
+--------------------------------------------------------------------------------
+11. LIMITS OF THIS DOCUMENT
+--------------------------------------------------------------------------------
+- No court or regulator has issued any order in this matter as of the archive date.
+- Applicability depends on the location of the affected person, the location of the
+  service, the contract and any choice-of-law or arbitration clause.
+- Common-law and civil-law systems differ; do not assume a US theory transfers.
+- Enforcement of a judgment across borders is a separate and often difficult step.
+- Nothing here is a substitute for advice from a lawyer qualified in the relevant
+  jurisdiction.
+
+================================================================================
+END OF DOCUMENT 10
+================================================================================
