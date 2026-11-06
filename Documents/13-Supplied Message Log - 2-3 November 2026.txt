@@ -20,19 +20,22 @@ are kept. The only redaction is the licence key (see below).
 
 TIME-STAMP NOTE
 --------------------------------------------------------------------------------
-The copied log uses a clock exactly one hour ahead of the 3 November screenshots.
-For example:
+The copied log is the complainant's Eastern Canada clock. The Parelllc-side
+screenshots (P-01 to P-07) are CEO-side captures, described as western USA, and
+are exactly one hour behind the copied log for the 3 November messages. The
+Twilight-side screenshots (T-01, T-02) are on the complainant's clock.
 
-  Event                         Copied log   Screenshot
-  ----------------------------  -----------  ----------
-  Gremix meeting ping           6:29 PM      5:29 PM
-  KittyFangs "just got back"    7:55 PM      6:55 PM
-  KittyFangs strike appeal      8:02 PM      7:02 PM
-  Gremix "no strikes given"     8:57 PM      7:57 PM
-  Gremix asset threat           9:03 PM      8:03 PM
+  Event                         Copied log   Parelllc-side screenshot
+  ----------------------------  -----------  -------------------------
+  Gremix meeting ping           6:29 PM      5:29 PM (P-02)
+  KittyFangs "just got back"    7:55 PM      6:55 PM (P-02)
+  KittyFangs strike appeal      8:02 PM      7:02 PM (P-04)
+  Gremix "no strikes given"     8:57 PM      7:57 PM (P-06)
+  Gremix asset threat           9:03 PM      8:03 PM (P-06/P-07)
 
-The 2 November leave notice matches in both (11:35 PM). Quote a time with its
-source and do not mix the two clocks in one calculation. See Document 12,
+The 2 November leave notice is on the complainant's clock only (11:35 PM in T-01
+and in the copied log), so it has no one-hour comparison. The observed difference
+is a display-timezone difference; the sequence is identical. See Document 12,
 "Time-stamp note".
 
 REDACTION NOTE

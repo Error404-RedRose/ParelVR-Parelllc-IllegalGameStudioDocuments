@@ -117,11 +117,44 @@ The full transcript, the time-stamp warning and the seven contradictions are in
 The images, hashes and capture notes are in
 [Image FIles/IMAGE-MANIFEST.txt](Image%20FIles/IMAGE-MANIFEST.txt).
 
-> **Time-stamp warning.** The 3 November screenshots display times exactly one hour
-> earlier than the copied message log; the 2 November leave notice matches in both.
-> For example, the meeting ping is **5:29 PM in Exhibit P-02** but **6:29 PM in the
-> copied log**. Quote a time with its source and do not mix the two clocks in one
-> calculation. The sequence is the same on either clock.
+### Exact timestamps: the two clocks
+
+The record contains **two clocks**, because the screenshots were captured on two different devices in two different places:
+
+| Source | Whose capture | Clock shown | Covers |
+|--------|---------------|-------------|--------|
+| **Parelllc Images** (P-01 to P-07) | CEO / Parelllc side, described as western USA | CEO-side local time | The announcement, ping, strike notice, denial and asset threat |
+| **Twilight Studio Images** (T-01, T-02) | Complainant / Twilight Studio side, Eastern Canada | Eastern Canada local time | The leave notice and the second capture of the announcement |
+| **Copied message log** (Document 13) | Complainant's Discord client, Eastern Canada | Eastern Canada local time | The full sequence in the complainant's clock |
+
+The two clocks are exactly **one hour apart** for the 3 November messages. The CEO-side images are one hour behind the Twilight-side images and the copied log.
+
+| Event | CEO-side time (Parelllc Images) | Twilight-side time (T images / copied log) | Difference |
+|-------|---------------------------------|--------------------------------------------|------------|
+| Mandatory meeting announcement | **5:23 PM** (P-01) | **6:23 PM** (T-02) | +1:00 |
+| Meeting ping | **5:29 PM** (P-02) | **6:29 PM** (copied log) | +1:00 |
+| "i just got back from construction" | **6:55 PM** (P-02) | **7:55 PM** (copied log) | +1:00 |
+| Strike appeal ("strike (1 of 3)") | **7:02 PM** (P-04) | **8:02 PM** (copied log) | +1:00 |
+| Objection to emergency-style meetings | **7:09 PM** (P-05) | **8:09 PM** (copied log) | +1:00 |
+| Formal notice / contract before Friday | **7:56 PM** (P-05) | **8:56 PM** (copied log) | +1:00 |
+| "there was no strikes given" | **7:57 PM** (P-06) | **8:57 PM** (copied log) | +1:00 |
+| "for u it doesnt really count ur contract" | **7:58 PM** (P-06) | **8:58 PM** (copied log) | +1:00 |
+| "u never reported that to us" | **8:00 PM** (P-07) | **9:00 PM** (copied log) | +1:00 |
+| "read the timestamps" | **8:01 PM** (P-07) | **9:01 PM** (copied log) | +1:00 |
+| "we can take donw ur assets" | **8:03 PM** (P-06, P-07) | **9:03 PM** (copied log) | +1:00 |
+| Leave notice | not in the P images | **11:35 PM, 2 November** (T-01 and copied log) | same Twilight clock |
+
+**Rules for reading the table**
+
+- The time in a file name is the time displayed in that image. It is not converted.
+- The **Parelllc Images** show the CEO-side clock. The **Twilight Studio Images** and the **copied log** show the Eastern Canada clock.
+- The observed difference is **one hour**. The complainant is in Eastern Canada; the CEO's side is described as western USA. The geographic labels alone do not fix the offset (western USA can be Pacific or Mountain time); the one-hour figure is what the capture devices show. Record the device timezone for each exhibit; the images govern. The archive does not silently convert a time from one zone to another.
+- The leave notice is only on the Twilight clock (T-01 and the copied log). It has no +1:00 comparison.
+- The thumbs-up reaction in P-03 has no timestamp in either clock.
+- Do not add or subtract the offset without stating which clock you are converting to.
+- The sequence is identical on both clocks. The one-hour difference is a display-timezone difference, not a gap in the events.
+
+This matters because the CEO's "advance notice" and "you never reported" claims are tested against the times in each clock, not a mixed calculation.
 
 ---
 
@@ -148,7 +181,7 @@ centre of the archive. Details, sources and the full assertion list are in
 
 | # | Document | Lines | What it contains |
 |---|----------|-------|------------------|
-| 00 | [00-README - Contents.txt](Documents/00-README%20-%20Contents.txt) | 197 | Archive index, scope, line map and image inventory. |
+| 00 | [00-README - Contents.txt](Documents/00-README%20-%20Contents.txt) | 199 | Archive index, scope, line map and image inventory. |
 | 01 | [01-Executive Summary - Systemic Misconduct.txt](Documents/01-Executive%20Summary%20-%20Systemic%20Misconduct.txt) | 204 | **Lead public notice.** The precipitating event, the seven-part pattern, affected groups, evidence and notice before publication. |
 | 02 | [02-Complaint - Parelllc-ParelVR Leadership.txt](Documents/02-Complaint%20-%20Parelllc-ParelVR%20Leadership.txt) | 239 | The complainant's formal complaint, preserved verbatim, with a dated evidentiary preface and annex. |
 | 03 | [03-Professional Statement - Parelllc-ParelVR.txt](Documents/03-Professional%20Statement%20-%20Parelllc-ParelVR.txt) | 87 | Professional Statement: five other VR providers, VRChat litigation, contract breaches, appropriated code, AI-generated content. |
@@ -156,12 +189,12 @@ centre of the archive. Details, sources and the full assertion list are in
 | 05 | [05-Public Statement - KittyFangs 5-12 PM.txt](Documents/05-Public%20Statement%20-%20KittyFangs%205-12%20PM.txt) | 46 | KittyFangs.exe OP post, 5:12 PM. |
 | 06 | [06-Public Statement - KittyFangs 5-42 PM.txt](Documents/06-Public%20Statement%20-%20KittyFangs%205-42%20PM.txt) | 65 | KittyFangs.exe OP post, 5:42 PM, including the six corrective actions. |
 | 07 | [07-Supplementary Exhibit - Discord Exchange.txt](Documents/07-Supplementary%20Exhibit%20-%20Discord%20Exchange.txt) | 134 | The later Gremix / eyeballs exchange, including the "thumbs up = advance notice" claim. |
-| 08 | [08-Timeline and Key Facts.txt](Documents/08-Timeline%20and%20Key%20Facts.txt) | 378 | Parties, dates, the pre-dispute chronology, assertions, evidence, remedies and legal track. |
+| 08 | [08-Timeline and Key Facts.txt](Documents/08-Timeline%20and%20Key%20Facts.txt) | 379 | Parties, dates, the pre-dispute chronology, assertions, evidence, remedies and legal track. |
 | 09 | [09-Legal Framework - United States.txt](Documents/09-Legal%20Framework%20-%20United%20States.txt) | 483 | US federal and state authorities, plus section 5A on same-day meetings, strikes and unilateral policy. |
 | 10 | [10-Legal Framework - International and Common Law.txt](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt) | 442 | UK, Canada, Australia, New Zealand, Ireland, EU and international instruments, plus section 8A on working time and penalties. |
 | 11 | [11-Involved Parties and Case Register.txt](Documents/11-Involved%20Parties%20and%20Case%20Register.txt) | 237 | Organisation, individual and exhibit registers; identity consolidation; case template; privacy rules. |
-| 12 | [12-Evidence Exhibit - Meeting Notice and Strike Chronology.txt](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt) | 636 | **Primary evidence.** Exhibit index, time-stamp warning, transcript, chronology, seven contradictions, legal signposts and authentication. |
-| 13 | [13-Supplied Message Log - 2-3 November 2026.txt](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt) | 330 | The full supplied message log, verbatim, with the licence key redacted and the one-hour time-stamp note. |
+| 12 | [12-Evidence Exhibit - Meeting Notice and Strike Chronology.txt](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt) | 653 | **Primary evidence.** Exhibit index, time-stamp warning, transcript, chronology, seven contradictions, legal signposts and authentication. |
+| 13 | [13-Supplied Message Log - 2-3 November 2026.txt](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt) | 333 | The full supplied message log, verbatim, with the licence key redacted and the one-hour time-stamp note. |
 
 Supporting files:
 
@@ -210,12 +243,12 @@ are also listed in [Document 00](Documents/00-README%20-%20Contents.txt).
 | 03 | [Statement — L32](Documents/03-Professional%20Statement%20-%20Parelllc-ParelVR.txt#L32) |
 | 04–06 | [Document 04 — L28](Documents/04-Public%20Statement%20-%20KittyFangs%2010-39%20PM.txt#L28) · [Document 05 — L23](Documents/05-Public%20Statement%20-%20KittyFangs%205-12%20PM.txt#L23) · [Document 06 — L24](Documents/06-Public%20Statement%20-%20KittyFangs%205-42%20PM.txt#L24) |
 | 07 | [Status — L6](Documents/07-Supplementary%20Exhibit%20-%20Discord%20Exchange.txt#L6) · [The three claims — L80](Documents/07-Supplementary%20Exhibit%20-%20Discord%20Exchange.txt#L80) |
-| 08 | [Pre-dispute chronology — L78](Documents/08-Timeline%20and%20Key%20Facts.txt#L78) · [3.1A — L140](Documents/08-Timeline%20and%20Key%20Facts.txt#L140) · [Contradictions — L171](Documents/08-Timeline%20and%20Key%20Facts.txt#L171) · [Evidence — L247](Documents/08-Timeline%20and%20Key%20Facts.txt#L247) |
+| 08 | [Pre-dispute chronology — L78](Documents/08-Timeline%20and%20Key%20Facts.txt#L78) · [3.1A — L141](Documents/08-Timeline%20and%20Key%20Facts.txt#L141) · [Contradictions — L172](Documents/08-Timeline%20and%20Key%20Facts.txt#L172) · [Evidence — L248](Documents/08-Timeline%20and%20Key%20Facts.txt#L248) |
 | 09 | [Classification — L24](Documents/09-Legal%20Framework%20-%20United%20States.txt#L24) · [Wage — L48](Documents/09-Legal%20Framework%20-%20United%20States.txt#L48) · [Retaliation — L67](Documents/09-Legal%20Framework%20-%20United%20States.txt#L67) · [Contract — L112](Documents/09-Legal%20Framework%20-%20United%20States.txt#L112) · [**Same-day meetings / strikes — L131**](Documents/09-Legal%20Framework%20-%20United%20States.txt#L131) · [Mapping — L405](Documents/09-Legal%20Framework%20-%20United%20States.txt#L405) |
 | 10 | [UK — L26](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt#L26) · [Canada — L71](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt#L71) · [EU — L153](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt#L153) · [**Same-day meetings / rest — L245**](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt#L245) · [Mapping — L350](Documents/10-Legal%20Framework%20-%20International%20and%20Common%20Law.txt#L350) |
 | 11 | [Identity consolidation — L26](Documents/11-Involved%20Parties%20and%20Case%20Register.txt#L26) · [Table A — L48](Documents/11-Involved%20Parties%20and%20Case%20Register.txt#L48) · [Table B — L79](Documents/11-Involved%20Parties%20and%20Case%20Register.txt#L79) · [Table D — L132](Documents/11-Involved%20Parties%20and%20Case%20Register.txt#L132) |
-| 12 | [Time-stamp note — L49](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L49) · [Exhibit index — L83](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L83) · [Transcript — L135](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L135) · [Chronology — L334](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L334) · [Contradictions — L378](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L378) |
-| 13 | [Time-stamp note — L21](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L21) · [Full log — L58](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L58) · [What the log adds — L296](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L296) · [Related documents — L316](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L316) |
+| 12 | [Time-stamp note — L49](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L49) · [Exhibit index — L100](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L100) · [Transcript — L152](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L152) · [Chronology — L351](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L351) · [Contradictions — L395](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt#L395) |
+| 13 | [Time-stamp note — L21](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L21) · [Full log — L61](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L61) · [What the log adds — L299](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L299) · [Related documents — L319](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt#L319) |
 
 ---
 
@@ -405,8 +438,10 @@ Per [Document 00](Documents/00-README%20-%20Contents.txt):
 - The ten images in the [Image FIles](Image%20FIles) folder are the separate 2–3 November
   exhibits, with SHA-256 hashes in [IMAGE-MANIFEST.txt](Image%20FIles/IMAGE-MANIFEST.txt).
 - The full supplied message log is in [Document 13](Documents/13-Supplied%20Message%20Log%20-%202-3%20November%202026.txt), with the licence key redacted.
-- The 3 November screenshots display times one hour earlier than the copied message log;
-  the 2 November leave notice matches in both. See the time-stamp warning in
+- The 3 November Parelllc Images (CEO side, described as western USA) display times one
+  hour earlier than the Twilight Studio Images and the copied message log (complainant
+  side, Eastern Canada). The 2 November leave notice is only on the Twilight clock
+  (11:35 PM). See the time-stamp section in
   [Document 12](Documents/12-Evidence%20Exhibit%20-%20Meeting%20Notice%20and%20Strike%20Chronology.txt).
 
 ---

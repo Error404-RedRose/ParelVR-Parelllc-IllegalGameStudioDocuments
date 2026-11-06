@@ -48,31 +48,48 @@ the exchange in Document 07. It remains an allegation pending verification.
 
 TIME-STAMP NOTE - READ BEFORE QUOTING ANY TIME
 --------------------------------------------------------------------------------
-The 3 November screenshots and the copied message log do not use the same
-clock. The 3 November screenshots consistently display times exactly one hour
-earlier than the copied log. The 2 November leave notice matches in both
-(11:35 PM):
+The record contains two clocks. The Parelllc Images (P-01 to P-07) are CEO-side
+captures, described by the complainant as western USA. The Twilight Studio Images
+(T-01, T-02) and the copied message log (Document 13) are complainant-side
+captures from Eastern Canada. The two clocks are exactly one hour apart for the
+3 November messages; the CEO-side images are one hour behind the Twilight-side
+images and the copied log. The 2 November leave notice is only on the Twilight
+clock (11:35 PM in T-01 and in the copied log).
 
-  Event                         Screenshot clock   Copied-log clock
-  ----------------------------  -----------------  -----------------
-  Gremix meeting ping           5:29 PM            6:29 PM
-  KittyFangs "just got back"    6:55 PM            7:55 PM
-  KittyFangs strike appeal      7:02 PM            8:02 PM
-  Gremix "no strikes given"     7:57 PM            8:57 PM
-  Gremix asset threat           8:03 PM            9:03 PM
+  Event                              CEO-side (P images)  Twilight-side (T/log)
+  ---------------------------------  -------------------  ---------------------
+  Mandatory meeting announcement     5:23 PM (P-01)       6:23 PM (T-02)
+  Meeting ping                       5:29 PM (P-02)       6:29 PM (log)
+  "i just got back..."               6:55 PM (P-02)       7:55 PM (log)
+  Strike appeal                      7:02 PM (P-04)       8:02 PM (log)
+  Objection                          7:09 PM (P-05)       8:09 PM (log)
+  Formal notice                      7:56 PM (P-05)       8:56 PM (log)
+  "there was no strikes given"       7:57 PM (P-06)       8:57 PM (log)
+  "for u it doesnt really count..."  7:58 PM (P-06)       8:58 PM (log)
+  "u never reported..."              8:00 PM (P-07)       9:00 PM (log)
+  "read the timestamps"              8:01 PM (P-07)       9:01 PM (log)
+  "we can take donw ur assets"       8:03 PM (P-06/07)    9:03 PM (log)
+  Leave notice                       not in P images      11:35 PM, 2 Nov (T-01/log)
 
-The one-hour difference is a display-timezone difference between the device
-that produced the screenshots and the client that produced the copied log. It
-does not change the order of events, the intervals between them, or the content
-of any message.
+The observed one-hour difference is a display-timezone difference between the
+two capture devices. It does not change the order of events, the intervals
+between them, or the content of any message. The sequence is identical on both
+clocks.
 
 Rules for citation:
 1. Quote a time with the source that displays it, e.g. "5:29 PM as displayed in
    Exhibit P-02" or "6:29 PM as recorded in the copied message log".
 2. Do not mix the two clocks in a single calculation.
 3. Intervals should be calculated within one clock, not across both.
-4. The announcement is displayed at 5:23 PM in Exhibit P-01 and at 6:23 PM in
-   the crop at Exhibit T-02. That is the same one-hour display difference.
+4. The announcement is displayed at 5:23 PM in Exhibit P-01 (CEO side) and at
+   6:23 PM in the crop at Exhibit T-02 (Twilight side). That is the same one-hour
+   display difference.
+5. The observed offset is one hour. The complainant is in Eastern Canada; the
+   CEO's side is described as western USA. The geographic labels alone do not fix
+   the offset (western USA can be Pacific or Mountain time); the one-hour figure is
+   what the capture devices show. Record the exact device timezone for each exhibit;
+   the images govern. The archive does not silently convert a time from one zone to
+   another.
 
 Discord does not display reaction timestamps to users. A reaction shown in an
 exhibit cannot establish when the reaction was added, whether it was added

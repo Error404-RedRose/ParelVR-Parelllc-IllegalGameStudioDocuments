@@ -27,10 +27,19 @@ the supplied message log. Times are the times displayed in the screenshot.
 
 TIME-STAMP WARNING
 --------------------------------------------------------------------------------
-The screenshots display times exactly one hour earlier than the copied message
-log supplied with the complaint. Example: the Gremix meeting ping is 5:29 PM in
-Exhibit P-02 but 6:29 PM in the copied log. Quote a time with its source. Do not
-mix the two clocks in one calculation. See Document 12, "Time-stamp note".
+The record contains two clocks:
+
+- The Parelllc Images (P-01 to P-07) are CEO-side captures, described as western
+  USA. Their times are one hour behind the complainant's Eastern Canada clock for
+  the 3 November messages.
+- The Twilight Studio Images (T-01, T-02) and the copied message log are on the
+  complainant's Eastern Canada clock.
+
+Example: the Gremix meeting ping is 5:29 PM in Exhibit P-02 (CEO side) but 6:29 PM
+in the copied log (Eastern Canada). The 2 November leave notice is only on the
+Twilight clock (11:35 PM in T-01 and the copied log). Quote a time with its
+source. Do not mix the two clocks in one calculation. See Document 12,
+"Time-stamp note".
 
 Discord does not display reaction timestamps. Exhibit P-03 therefore cannot
 establish when the reaction was added.

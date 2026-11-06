@@ -31,7 +31,7 @@ CONTENTS AND LINE MAP
 --------------------------------------------------------------------------------
 File                                              Lines  Key sections
 --------------------------------------------------------------------------------
-00-README - Contents.txt                             197  L9 scope; L30 this map;
+00-README - Contents.txt                             199  L9 scope; L30 this map;
                                                           L76 descriptions; L155
                                                           image files; L179 notes
 01-Executive Summary - Systemic Misconduct.txt      204  L10 what this is; L33 what
@@ -48,10 +48,10 @@ File                                              Lines  Key sections
                                                           L57 reading note
 07-Supplementary Exhibit - Discord Exchange.txt      134  L6 status; L28 transcript;
                                                           L80 three claims
-08-Timeline and Key Facts.txt                       378  L28 parties; L55 dates;
+08-Timeline and Key Facts.txt                       379  L28 parties; L55 dates;
                                                           L78 pre-dispute chronology;
-                                                          L140 3.1A; L171 3.1B;
-                                                          L247 evidence; L361 source
+                                                          L141 3.1A; L172 3.1B;
+                                                          L248 evidence; L362 source
 09-Legal Framework - United States.txt              483  L24 classification; L48
                                                           wage; L67 retaliation;
                                                           L131 same-day meetings;
@@ -62,15 +62,15 @@ File                                              Lines  Key sections
 11-Involved Parties and Case Register.txt           237  L26 identity; L48 Table A;
                                                           L79 Table B; L111 Table C;
                                                           L132 Table D; L167 template
-12-Evidence Exhibit - Meeting Notice and Strike     636  L49 time-stamp note; L83
-   Chronology.txt                                         exhibit index; L135
-                                                          transcript; L334 chronology;
-                                                          L378 contradictions; L494
-                                                          what is established; L523
-                                                          legal; L577 authentication;
-                                                          L602 right of reply
-13-Supplied Message Log - 2-3 November 2026.txt     330  L21 time-stamp; L58 full log;
-                                                          L296 what it adds; L316
+12-Evidence Exhibit - Meeting Notice and Strike     653  L49 time-stamp note; L100
+   Chronology.txt                                         exhibit index; L152
+                                                          transcript; L351 chronology;
+                                                          L395 contradictions; L511
+                                                          what is established; L540
+                                                          legal; L594 authentication;
+                                                          L619 right of reply
+13-Supplied Message Log - 2-3 November 2026.txt     333  L21 time-stamp; L61 full log;
+                                                          L299 what it adds; L319
                                                           related documents
 
 FULL DESCRIPTIONS
@@ -186,9 +186,11 @@ NOTES
 - The screenshots referenced in the later exchange (seven images) are referred to
   but were not supplied. The ten images in the Image FIles folder are the separate
   2-3 November exhibits described in Document 12.
-- The 3 November screenshots display times one hour earlier than the copied
-  message log; the 2 November leave notice matches in both. See Document 12,
-  "Time-stamp note". Do not mix the two clocks.
+- The 3 November Parelllc Images (CEO side, described as western USA) display
+  times one hour earlier than the Twilight Studio Images and the copied message
+  log (complainant side, Eastern Canada). The 2 November leave notice is only on
+  the Twilight clock (11:35 PM). See Document 12, "Time-stamp note". Do not mix
+  the two clocks.
 - Related file in the workspace root: summary.txt (auto-generated tooling log).
 - Issues: .github/ISSUE_TEMPLATE/abuse-report.md
 

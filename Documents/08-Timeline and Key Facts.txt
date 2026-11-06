@@ -78,10 +78,11 @@ exchange is in section 8.
 2A. PRE-DISPUTE CHRONOLOGY (2-3 NOVEMBER 2026)
 --------------------------------------------------------------------------------
 This is the sequence that led to the dispute. Times are given as displayed in the
-exhibit named. The 3 November screenshots display times one hour earlier than the
-copied message log; the 2 November leave notice matches in both. Do not mix the
-two clocks. See Document 12. The full supplied message log is in
-Document 13.
+exhibit named. The 3 November Parelllc Images (CEO side, described as western
+USA) display times one hour earlier than the Twilight Studio Images and the
+copied message log (complainant side, Eastern Canada). The 2 November leave
+notice is only on the Twilight clock (11:35 PM). Do not mix the two clocks. See
+Document 12. The full supplied message log is in Document 13.
 
 Seq  Time (exhibit)   Actor           Event                                   Exhibit
 ---  ---------------  --------------  --------------------------------------  -------

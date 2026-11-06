@@ -1,7 +1,7 @@
 # AI Work Summary
 
-**Session:** ok images were added added Parelllc images
-**Completed:** 2026-11-06 11:14 UTC
+**Session:** can you make the readme more clear
+**Completed:** 2026-11-06 12:58 UTC
 **Workspace:** `E:\GitHub Repos\ParelVR-Parelllc-IllegalGameStudioDocuments`
 **Status:** Completed successfully
 
@@ -9,53 +9,37 @@
 
 ## Objective
 
-ok images were added i added Parelllc images which shows proof of their wrongdoings as according
-to timestamps and false claims as due to Parelllc CEO not looking at timestamps. My reaction was
-send when i got home from work and he also knows i did not react as i did not attend the illegal
-suddenly a new rule strike meeting in which is illegal as law obides…
+can you make the readme more clear on exact timestamps. there is timestamps of proof in which
+Twilight Studio images has and Timestamp of which CEO of Parelllc has but they live in western
+USA as for myself I live in eastern canada.
 
 ## What Was Done
 
-- **Get root** — 1 action
+- **Project files changed** — 7 actions
   - done
-- **Workspace inspection** — 21 actions
-  - 6 entries · E:\GitHub Repos\ParelVR-Parelllc-IllegalGameStudioDocuments
-  - README.md · 308 lines
-  - Documents/00-README - Contents.txt · 122 lines
-- **Commands run** — 87 actions
-  - exit 0 · C:\Python311\python.exe C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps\python.exe C:\Windows\py.exe ---
-  - exit 0 · ===== aaaaaaaa.png (1146x683) ===== @KittyFangs.exe Dear Parelllc CEQ A scheduled call is arranged to toda� concerns, t
-  - exit 0 · ===== asdasd.png (274x145) ===== meetings and help all of us 6:23 PM we are starting the join ups for has EEen a ver
-- **Project files changed** — 32 actions
-  - done
+- **Commands run** — 22 actions
+  - exit 0 · README timestamp section replaced
+  - exit 0 · Doc 12 timestamp block replaced
+  - exit 0 ·
 
 ## Files Changed
 
-- `.tmp-ocr.ps1`
-- `.tmp-upscale.py`
-- `Documents/12-Evidence Exhibit - Meeting Notice and Strike Chronology.txt`
-- `Image FIles/IMAGE-MANIFEST.txt`
-- `Documents/08-Timeline and Key Facts.txt`
-- `Documents/00-README - Contents.txt`
-- `Documents/01-Executive Summary - Systemic Misconduct.txt`
-- `Documents/02-Complaint - Parelllc-ParelVR Leadership.txt`
-- `Documents/07-Supplementary Exhibit - Discord Exchange.txt`
-- `Documents/11-Involved Parties and Case Register.txt`
-- `Documents/03-Professional Statement - Parelllc-ParelVR.txt`
-- `Documents/04-Public Statement - KittyFangs 10-39 PM.txt`
-- `Documents/05-Public Statement - KittyFangs 5-12 PM.txt`
-- `Documents/06-Public Statement - KittyFangs 5-42 PM.txt`
-- `Documents/09-Legal Framework - United States.txt`
-- `Documents/10-Legal Framework - International and Common Law.txt`
+- `.tmp-timestamps-readme.py`
+- `.tmp-timestamps-doc12.py`
+- `.tmp-timestamps-other.py`
+- `.tmp-timestamps-index.py`
+- `.tmp-timestamps-readme2.py`
+- `.tmp-timestamps-caveat.py`
+- `.tmp-timestamps-finalnums.py`
 
 ## Outcome
 
-- `Parelllc-01-2026-11-03-Crispy-mandatory-meeting-strike-threat-5-23PM.png`
-- `Parelllc-02-2026-11-03-Gremix-meeting-ping-5-29PM-and-reply-6-55PM.png`
-- `Parelllc-03-2026-11-03-thumbsup-reaction-cited-as-notice.png`
-- `Parelllc-04-2026-11-03-strike-appeal-7-02PM.png`
-- `Parelllc-05-2026-11-03-EMS-objection-and-formal-notice-7-09-7-56PM.png`
-- `Parelllc-06-2026-11-03-Gremix-denies-strike-and-threatens-assets-7-57-8-03PM.png`
+- The **Parelllc Images** are the CEO-side captures. The **Twilight Studio Images** and the copied log are the Eastern Canada side.
+- The **one-hour difference is a display-timezone difference**, not a gap in the events. The sequence is identical on both clocks.
+- The **file names use the time shown in that image**, not a converted time.
+- The **2 November 11:35 PM leave notice** is only on the Twilight clock, so it has no +1:00 comparison.
+- The **thumbs-up reaction (P-03)** has no timestamp in either clock.
+- I also added a caution: the geographic labels alone do not fix the offset — “western USA” can mean Pacific or Mountain time — so the **capture device’s exact timezone should be doc…
 
 ---
 
