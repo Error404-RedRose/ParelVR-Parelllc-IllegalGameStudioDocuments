@@ -42,6 +42,10 @@ assignees: ""
 
 **Is the evidence private, sealed, public, or already with counsel?**
 
+**Exhibit references (if any):**
+(e.g. P-01, P-04, T-01; see `Documents/11-Involved Parties and Case Register.txt`,
+Table D, and `Image FIles/IMAGE-MANIFEST.txt`)
+
 **Loss claimed (unpaid amount, credit, data, reputational harm):**
 
 **Relief sought (payment, credit, reinstatement, correction, other):**
@@ -62,6 +66,22 @@ assignees: ""
 ## Related documents
 
 List any document numbers from `Documents/` that relate to this report.
+
+## Time-stamp and screenshot note
+
+If you are reporting a meeting, strike or policy incident, include:
+
+- the exact announcement and the date/time it was posted;
+- the meeting schedule or agenda, if one was provided;
+- any leave or unavailability notice you had already given;
+- the strike or penalty notice you received;
+- the exact words used by the decision-maker;
+- the device timezone used in the screenshot;
+- the SHA-256 hash of each original image.
+
+Screenshots in this archive may display a different clock from the copied message
+log. Quote each time with its source and do not mix the two clocks. See
+`Documents/12-Evidence Exhibit - Meeting Notice and Strike Chronology.txt`.
 
 ## Additional context
 

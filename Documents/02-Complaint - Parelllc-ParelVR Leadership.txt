@@ -6,7 +6,8 @@ PARELVR / PARELLLC - LEADERSHIP CONDUCT
 CONTEXT
 --------------------------------------------------------------------------------
 This document is one case study within a wider public notice. It is the
-complainant's own account of being banned after objecting to a new staff policy.
+complainant's own account of being penalised and banned after objecting to a new
+staff policy.
 
 It is NOT a claim by Twilight Studio of ownership over Parelllc, ParelVR or their
 products. It is NOT a lawsuit or a court order. Twilight Studio is one affected
@@ -18,10 +19,69 @@ The complainant states that DM records, publicly saved documents and sealed
 documents held by other members document comparable conduct. Those records are
 referred to in Document 01 and are not reproduced here.
 
+The names "eyeballs", "KittyFangs.exe" and the Twilight Studio Head Administrator
+refer to the same individual. The original complaint is preserved below. A dated
+evidentiary preface and an annex have been added to connect it to the screenshots
+in Document 12. The original wording has not been altered.
+
 Note: This passage was supplied twice in the source material. The two copies were
 identical apart from incidental formatting (for example "$7 million" versus
 "a$7million"). They have been consolidated here into one authoritative copy.
 No fact, allegation or instruction has been removed.
+
+POST-SUBMISSION EVIDENTIARY PREFACE (2026-11-06)
+--------------------------------------------------------------------------------
+When this complaint was first written, the 2-3 November 2026 screenshots had not
+been indexed. They are now in Document 12 and in the Image FIles folder. They
+establish the following sequence, which is the factual basis for the complaint:
+
+1. On 2 November 2026 at 11:35 PM the complainant posted a written leave notice:
+   unavailable for several days because of construction work with their father;
+   approximately one week. The notice was in the channel approximately eighteen
+   hours before the meeting.
+
+2. On 3 November 2026 the Crispy account announced: "we are starting the join ups
+   for meetings, i expect everyone in Parel LLC to joion this meeting, today ill
+   be striking people for missing meetings... this is a mandatory meeting. if you
+   cannot attend due to reasons such as physcial work, medical issue, or anything
+   actually reasonable please dm me with PROOF, if no proof i will count it as a
+   strike, thank you, @everyone".
+
+3. Gremix pinged the complainant the same day: "we are starting a meeting here
+   shortly". The complainant replied on returning from construction: "i just got
+   back from construction, so i can attend soon".
+
+4. The complainant was notified of "a strike (1 of 3) for missing a scheduled
+   meeting" and appealed in writing, giving the work hours (9:00 AM to 5:00 PM)
+   and the prior notice.
+
+5. The CEO replied: "there was no strikes given so no worries. it was all just
+   warning". He also said: "for u it doesnt really count ur contract, thats why it
+   was a warning"; "u never reported that to us. how am i to know you where working
+   yk"; and "well u can leave if thats how ur going to act. we can take donw ur
+   assets from the storage".
+
+6. The complainant objected that the meeting was unplanned, that a one-week notice
+   is required for strikes, that they were on scheduled leave, and that the
+   company was treating a development crew like an EMS or military unit.
+
+7. The complainant gave formal notice that a written contract would be issued
+   before Friday and that the CEO's actions constituted a complete termination of
+   the existing arrangement if not resolved.
+
+The evidentiary significance is not that the parties disagreed. It is that the
+CEO's later account is inconsistent with his own written policy and with the
+complainant's written notice. Document 12 sets out seven specific contradictions,
+including the denial of a strike that the CEO's own announcement had threatened,
+and the statement that the complainant never reported the work despite the
+11:35 PM leave notice.
+
+Note on figures: the source statements use "$7 million" (this document),
+"$1million-plus home" (the leave notice) and "72 million dollars worth of rental
+properties" (the 8:59 PM message). These appear to describe different assets (a
+construction project, a home renovation and a rental portfolio) rather than one
+figure. The complaint does not rely on a single valuation. The material fact is
+the construction work and the leave notice, not the valuation.
 
 --------------------------------------------------------------------------------
 
@@ -93,6 +153,86 @@ legally.
 
 This is the last message I will send to finalize the issue to give a clear final
 understanding before your finalized decision.
+
+ANNEX A - THE 3 NOVEMBER 2026 SEQUENCE IN THE COMPLAINANT'S OWN WORDS
+--------------------------------------------------------------------------------
+The following excerpts are reproduced from Document 12. They are the
+complainant's own messages on the day of the meeting.
+
+A.1  On returning from construction (Exhibit P-02, 6:55 PM):
+     "i just got back from construction, so i can attend soon"
+
+A.2  The strike appeal (Exhibit P-04, 7:02 PM):
+     "I have been notified that I have received a strike (1 of 3) for missing a
+     scheduled meeting.
+     I was not formally informed of the meeting before this message was sent.
+     I worked from 9:00AM to 5:00 PM with my father and just returned at 8:00 PM.
+     The project is a $1 million construction venture; failure to address it now
+     will result in damage to the building during winter.
+     Given the hazardous work conditions, I could not attend the meeting or take
+     a call on my phone while focused on essential tasks. Had I received formal
+     notice prior, my inability to attend would have been recorded and the
+     strike avoided.
+     I apologise for this misunderstanding and for any unread messages. This
+     reply is intended to clarify the situation.
+     My Message: Yesterday 11:35PM
+     Your meeting ping: 6:35PM Today"
+
+A.3  The objection to emergency-style meetings (Exhibit P-05, 7:09 PM):
+     "Please schedule important meetings-whether they are tests or not-especially
+     after strikes have been issued. I understand the need for testing, but
+     strikes cannot be avoided without a one-week notice. The unplanned meeting
+     was unprofessional on your part. I am unaware of Shadow's situation, but I
+     know you have caught [members] unaware and I was already on sceduled leave.
+     This is a development crew, not a military council; plans should [be] known
+     at least months in advance. ... This is not a military meeting, and there is
+     no risk of serious harm. It is not an EMS hotline; please plan matters like
+     a professional business. I cannot attend unplanned, urgent meetings even
+     though I previously informed you. I will not subject my team to emergency-
+     style meetings that include strikes."
+
+A.4  The formal notice (Exhibit P-05, 7:56 PM):
+     "Dear Parelllc CEO,
+     A scheduled call is arranged to review [today's] leadership concerns, the
+     unplanned meeting, and strike-related issues. I would prefer to address
+     these matters through a formal written message, as I have previously done.
+     Alternatively, we may agree on a time before Friday in which I will issue a
+     written contract between Twilight Studio and Parelllc.
+     The actions you performed [today] constitute a complete termination of my
+     contract, as they represent unplanned and unorganized harassment intended
+     for testing purposes.
+     I believe you have exceeded your authority and failed to fulfill proper
+     leadership [responsibilities]. ..."
+
+A.5  The complainant's response to the denial (Exhibit P-06, 7:58 PM):
+     "I don't teally care. I am not dealing with unorganized leadership were
+     makingf a contract with terms if you dont agree or agree we can move farther
+     on there. YOur treating me like a EMS staff member."
+
+A.6  The complainant's final point on the timestamps (Exhibit P-06, 8:01 PM):
+     "well Parelllc CEO, I don't know if your reading either clearly not as from
+     what i seen in the timestamps
+     must I ping again the messages you are to read above or should I just leave
+     now"
+
+ANNEX B - WHAT THIS DOCUMENT ADDS TO THE RECORD
+--------------------------------------------------------------------------------
+The original complaint made four factual claims that the 2-3 November exhibits
+now support directly:
+
+1. The complainant had taken leave for construction work before the meeting. The
+   leave notice is dated 2 November at 11:35 PM (Exhibit T-01).
+2. The meeting was unplanned and announced with same-day notice. The announcement
+   is dated 3 November (Exhibit P-01).
+3. A strike was threatened and communicated. The announcement threatens strikes
+   (P-01), and the complainant was told of "a strike (1 of 3)" (P-04).
+4. The complainant objected and was met with a denial and a threat to remove
+   assets (P-06 and P-07).
+
+The original complaint's characterisation of the policy as "Among Us" style and
+as an "EMS hotline" is the complainant's opinion. The exhibits supply the
+underlying facts: same-day notice, a written strike threat, a pre-existing leave
+notice and a conditional asset-removal threat.
 
 ================================================================================
 END OF DOCUMENT 02

@@ -1,0 +1,189 @@
+================================================================================
+IMAGE FIles - IMAGE MANIFEST
+PARELLLC / PARELVR PUBLIC-NOTICE ARCHIVE
+================================================================================
+
+Status: Exhibit index for the screenshot evidence. Allegations only. Not a court
+order. The images are secondary captures of a Discord interface; the originals
+govern. See Documents/12-Evidence Exhibit - Meeting Notice and Strike
+Chronology.txt for the transcript, chronology and contradiction analysis.
+
+FOLDER SPELLING
+--------------------------------------------------------------------------------
+The folder is named "Image FIles" (capital I, lowercase l) as created. It is
+retained so existing links do not break. The correct spelling is "Image Files".
+
+NAMING CONVENTION
+--------------------------------------------------------------------------------
+Parelllc Images/
+  Parelllc-XX-YYYY-MM-DD-short-description.png
+
+Twilight Studio Images/
+  Twilight-XX-YYYY-MM-DD-short-description.png
+
+The number is the suggested order of reading, not a claim that the events
+happened in that order. Dates are the date of the conversation as recorded in
+the supplied message log. Times are the times displayed in the screenshot.
+
+TIME-STAMP WARNING
+--------------------------------------------------------------------------------
+The screenshots display times exactly one hour earlier than the copied message
+log supplied with the complaint. Example: the Gremix meeting ping is 5:29 PM in
+Exhibit P-02 but 6:29 PM in the copied log. Quote a time with its source. Do not
+mix the two clocks in one calculation. See Document 12, "Time-stamp note".
+
+Discord does not display reaction timestamps. Exhibit P-03 therefore cannot
+establish when the reaction was added.
+
+--------------------------------------------------------------------------------
+PARELLLC IMAGES
+--------------------------------------------------------------------------------
+
+P-01  Parelllc-01-2026-11-03-Crispy-mandatory-meeting-strike-threat-5-23PM.png
+      Size: 897 x 188
+      SHA-256: a6d3316157a52075baa0cb49cf31d2ed79607ad27d59cac939785ec1bc01b31f
+      Content: A message from the Crispy account in the Parel LLC Discord:
+      "we are starting the join ups for meetings, i expect everyone in Parel LLC
+      to joion this meeting, today ill be striking people for missing meetings.
+      ... this is a mandatory meeting. if you cannot attend due to reasons such
+      as physcial work, medical issue, or anything actually reasonable please dm
+      me with PROOF, if no proof i will count it as a strike, thank you,
+      @everyone"
+      Offered to show: the CEO announced a mandatory meeting and explicitly
+      threatened strikes for non-attendance; the CEO's own policy recognised
+      physical work as an excuse subject to proof.
+
+P-02  Parelllc-02-2026-11-03-Gremix-meeting-ping-5-29PM-and-reply-6-55PM.png
+      Size: 846 x 230
+      SHA-256: 7c104fa1b49ba9fef539d733db690d36800edf67c0bed8a09bdea5860cdced46
+      Content: Gremix at 5:29 PM: "Hey @KittyFangs.exe we are starting a meeting
+      here shortly". KittyFangs.exe at 6:55 PM: "i just got back from
+      construction, so i can attend soon".
+      Offered to show: the meeting ping was same-day and unscheduled; the
+      complainant replied as soon as they returned from construction.
+
+P-03  Parelllc-03-2026-11-03-thumbsup-reaction-cited-as-notice.png
+      Size: 625 x 145
+      SHA-256: 719fc4dabbdd9fdc41ef04f11728a9723e78bb816cdbf32832c7579cbef02fa3
+      Content: A crop showing ":thumbsup: reacted by KittyFangs.exe" and the
+      text fragment "starting a meeting here shortly".
+      Offered to show: the reaction the CEO later cites as "advance notice"
+      (Document 07). It does not display a reaction time.
+
+P-04  Parelllc-04-2026-11-03-strike-appeal-7-02PM.png
+      Size: 1152 x 607
+      SHA-256: aa59614f6ccb86452fde2f065133a3771ecea48f74b7528d5e131565992a9033
+      Content: KittyFangs.exe at 7:02 PM: "I have been notified that I have
+      received a strike (1 of 3) for missing a scheduled meeting. I was not
+      formally informed of the meeting before this message was sent. I worked
+      from 9:00AM to 5:00 PM with my father and just returned at 8:00 PM. ..."
+      The message quotes "My Message: Yesterday 11:35PM" and "Your meeting ping:
+      6:35PM Today". The bottom of the image shows the Crispy announcement at
+      6:23 PM.
+      Offered to show: a strike was communicated; the complainant gave the work
+      schedule and the prior notice in the same message.
+
+P-05  Parelllc-05-2026-11-03-EMS-objection-and-formal-notice-7-09-7-56PM.png
+      Size: 1129 x 736
+      SHA-256: f683acf4174e13612a9cf8c527ca8f78ed8a6fc535ceebe2d423f3ec360bcbe0
+      Content: KittyFangs.exe at 7:09 PM objecting to unplanned emergency-style
+      meetings and strikes, and at 7:56 PM giving formal notice that a written
+      contract would be issued before Friday and that the CEO's actions
+      constituted a complete termination of the contract.
+      Offered to show: the complainant objected in writing and proposed a
+      written contract process; the objection is the activity that precedes the
+      later asset threat.
+
+P-06  Parelllc-06-2026-11-03-Gremix-denies-strike-and-threatens-assets-7-57-8-03PM.png
+      Size: 1146 x 683
+      SHA-256: 9d59dab9a688693c0b3aa0949dd517e5adeb1b35030fa8f9816e10bc154a05cc
+      Content: The 7:57-8:03 PM exchange. Gremix: "there was no strikes given
+      so no worries. it was all just warning"; "for u it doesnt really count ur
+      contract, thats why it was a warning"; "u never reported that to us"; and
+      "we can take donw ur assets from the storage."
+      Offered to show: the CEO denied the strike, said the contract did not
+      count for the complainant, denied knowing the complainant was working, and
+      threatened to remove the complainant's assets.
+
+P-07  Parelllc-07-2026-11-03-Gremix-warning-and-asset-threat-8-00-8-03PM.png
+      Size: 825 x 376
+      SHA-256: e42c002929214609cf8bc99ffc4569ebe50e0321f5be3db9de9d83abb29cd5e7
+      Content: A second capture of the 8:00-8:03 PM portion of the same
+      exchange, including "idk if u read, but ur contract, i just gave u a
+      warning because again u never [reported] that to us", "how am i to know
+      you where working yk", and the asset-removal threat.
+      Offered to show: the exchange is not a single-frame artifact; two captures
+      agree on the content.
+
+--------------------------------------------------------------------------------
+TWILIGHT STUDIO IMAGES
+--------------------------------------------------------------------------------
+
+T-01  Twilight-01-2026-11-02-leave-notice-11-35PM-and-7-04PM-note.png
+      Size: 1005 x 206
+      SHA-256: 76c24d6a738a4f3d356df8c6986d2678b5e22ef85afbaefc472aa2111524599b
+      Content: KittyFangs.exe at 7:04 PM: "ok i noted it". KittyFangs.exe at
+      11:35 PM: "I will be unavailable for PVR development for several more days
+      due to extensive construction work with my father. We anticipate this will
+      take approximately one week. ..."
+      Offered to show: written notice of unavailability was posted on 2 November
+      at 11:35 PM, approximately eighteen hours before the meeting was
+      announced.
+
+T-02  Twilight-02-2026-11-03-mandatory-meeting-timestamp-crop-6-23PM.png
+      Size: 274 x 145
+      SHA-256: 42af2661af9055596616bee10e066132b61d78af48751c946b288f91076aaf62
+      Content: A crop of the Crispy announcement showing "6:23 PM" and the text
+      fragments "meetings and help all of us", "we are starting the join ups
+      for", "has been a very common thing i", "cannot attend due to reasons",
+      "count it as a strike, thank you,".
+      Offered to show: a second capture of the same announcement. It displays
+      one hour later than P-01 (5:23 PM), consistent with the display-timezone
+      difference described in Document 12.
+
+T-03  Twilight-03-ParelVR-Steam-listing-Twilight-Studio-credited-as-developer.png
+      Size: 518 x 215
+      SHA-256: 499f6d8dc5adbe8f1c0f344d703bc551195131500ada90bddea888d0493d151c
+      Content: A Steam store-listing panel:
+        TITLE: ParelVR
+        GENRE: Action, Adventure, Indie, Massively Multiplayer, Simulation,
+               Free To Play, Early Access
+        DEVELOPER: Parel LLC, Twilight Studio
+        PUBLISHER: Parel LLC
+        RELEASE DATE: Coming soon
+      Offered to show: Twilight Studio was publicly credited as a developer on
+      the ParelVR Steam listing. Relevant to the credit and contribution issues
+      in Documents 01-04 and 11. It does not, by itself, prove ownership or the
+      scope of the contribution.
+
+--------------------------------------------------------------------------------
+WHAT IS NOT IN THIS FOLDER
+--------------------------------------------------------------------------------
+- The screenshots referenced in Document 07 ("Image" x 7) were not attached to
+  the source material. They are referred to in Document 07 but are not included
+  here.
+- No private direct-message logs, identity documents, addresses, phone numbers,
+  financial account numbers or family details are included.
+- No edited copies. The images are the originals as supplied; the transcript in
+  Document 12 is a separate reading aid.
+
+--------------------------------------------------------------------------------
+AUTHENTICATION CHECKLIST
+--------------------------------------------------------------------------------
+For each exhibit, record:
+1. Who captured it.
+2. The device and operating system.
+3. The Discord account, server and channel.
+4. The device timezone at capture.
+5. The date and time of capture.
+6. The original storage location and backup location.
+7. The SHA-256 hash at capture and at filing.
+8. Any export of the channel history (Discord JSON) that corroborates it.
+
+Re-verify the hashes before filing:
+
+  powershell -Command "Get-FileHash -Algorithm SHA256 'Image FIles\...\file.png'"
+
+================================================================================
+END OF IMAGE MANIFEST
+================================================================================

@@ -23,6 +23,27 @@ The register is intentionally incomplete. Other organisations and members have n
 yet filed their documents. New entries should be added by pull request or by
 opening an Issue using the template in .github/ISSUE_TEMPLATE/.
 
+IDENTITY CONSOLIDATION
+--------------------------------------------------------------------------------
+The archive now records that the following are one individual:
+
+- "eyeballs" - the name used in the later exchange (Document 07) and earlier
+  drafts;
+- "KittyFangs.exe" - the Discord username used in the public statements
+  (Documents 04-06) and in the exhibits;
+- the Twilight Studio Head Administrator - the role used in the 2-3 November 2026
+  notices (Document 12), signed as "Freya Nyx Rosemire".
+
+The link is asserted by the complainant and is consistent across the exhibits: the
+same account posts the leave notice, replies to the meeting ping, files the strike
+appeal and signs the formal notice. The signing name is reproduced because the
+complainant supplied it in a signed notice; it is not asserted to be a verified
+legal name.
+
+The archive also treats "Crispy", "CrispyAl_T" and "Gremix" as the same operator.
+That link is asserted by the complainant and corroborated by the exchange in
+Document 07. It remains an allegation pending verification.
+
 --------------------------------------------------------------------------------
 TABLE A - ORGANISATIONS
 --------------------------------------------------------------------------------
@@ -35,9 +56,10 @@ A-01  Parelllc            Subject of the allegations.     United States  Named
 A-02  ParelVR             Game/product published by       United States  Named
                           Parelllc.                       (asserted)     product.
 A-03  Twilight Studio     Complainant's freelance game    Not disclosed  Participant;
-                          studio (Document 02). One                      one of many.
-                          participant only; no ownership
-                          claim over Parelllc/ParelVR.
+                          studio (Documents 02 and 12).                  one of many.
+                          One participant only; no
+                          ownership claim over
+                          Parelllc/ParelVR.
 A-04  ChilloutVR         Stated supplier of a framework  Not stated     Third party;
                           licensed for private use only.                 referenced.
 A-05  VRChat              Named as a party in dispute     United States  Third party;
@@ -56,45 +78,90 @@ A-11  [Organisation 3]    Documents being gathered.       [To supply]    Pending
 --------------------------------------------------------------------------------
 TABLE B - INDIVIDUALS AND USERNAMES
 --------------------------------------------------------------------------------
-Ref   Username            Legal name                  Role / notes
+Ref   Username / role            Legal name                  Role / notes
 --------------------------------------------------------------------------------
-B-01  Crispy / Gremix     Not supplied.               CEO and registered owner of
-                          Do not publish without      Parelllc; described as 18
-                          public source or consent.   years old; operates two
-                                                      Discord identities (the
-                                                      identity link is alleged in
-                                                      Document 07).
-B-02  eyeballs            Not supplied.               Complainant; previously
-                          Do not publish without      operated under this name;
-                          public source or consent.   representative of Twilight
-                                                      Studio (Document 02).
-B-03  KittyFangs.exe      Not supplied.               Author of the three public
-                          Do not publish without      statements (Documents 04-06).
-                          public source or consent.
-B-04  [Member username]   [To supply]                 Alleged banned member.
-B-05  [Member username]   [To supply]                 Alleged banned member.
-B-06  [Member username]   [To supply]                 Holder of sealed documents.
+B-01  Crispy / CrispyAl_T /      Not supplied.               CEO and registered
+      Gremix                     Do not publish without      owner of Parelllc;
+                                 public source or consent.   described as 18 years
+                                                             old; operates multiple
+                                                             Discord display names.
+                                                             The identity link is
+                                                             alleged in Document 07
+                                                             and relied on in
+                                                             Document 12.
+B-02  eyeballs / KittyFangs.exe  Signing name supplied       Complainant; Twilight
+      / Twilight Studio Head     by the complainant:         Studio Head
+      Administrator              "Freya Nyx Rosemire".       Administrator. Author
+                                 Reproduced as a signing     of the public statements
+                                 name only; not asserted     (Documents 04-06) and of
+                                 to be a verified legal      the 2-3 November notices
+                                 name.                       (Document 12). One
+                                                             individual, not three.
+B-03  [Member username]          [To supply]                 Alleged banned member.
+B-04  [Member username]          [To supply]                 Alleged banned member.
+B-05  [Member username]          [To supply]                 Holder of sealed
+                                                             documents.
 
-Note: No legal names are asserted in this archive. The usernames above are the
-identifiers used in the source documents. Adding a legal name requires a public
-source or written consent, recorded in the entry.
+Note: No legal names are asserted in this archive beyond the signing name the
+complainant supplied. The usernames above are the identifiers used in the source
+documents. Adding any other legal name requires a public source or written
+consent, recorded in the entry.
 
 --------------------------------------------------------------------------------
 TABLE C - SEALED AND PRIVATE DOCUMENTS
 --------------------------------------------------------------------------------
 Ref   Holder              Document                        Status
 --------------------------------------------------------------------------------
-C-01  Other members       Sealed documents on similar     Referred to; not published.
-                          issues (Document 01).
-C-02  Affected members    DM records with the CEO.        Referred to; not published.
-C-03  Affected orgs       Publicly saved posts/documents. Partially quoted in 03-06.
-C-04  Complainant         Internal communications.        Referred to; not published.
-C-05  Affected members     Seven screenshots (Doc. 07).    Referred to; not provided.
+C-01  Other members       Sealed documents on similar     Referred to; not
+                          issues (Document 01).           published.
+C-02  Affected members    DM records with the CEO.        Referred to; not
+                                                          published.
+C-03  Affected orgs       Publicly saved posts/documents. Partially quoted in
+                                                          03-06.
+C-04  Complainant         Internal communications.        Referred to; not
+                                                          published.
+C-05  Affected members    Seven screenshots (Doc. 07).    Referred to; not
+                                                          supplied.
 C-06  [Holder]            [Document name]                 [To supply].
 
 Rule: if you hold sealed or private records, publish a summary and state that the
 originals are held privately. Do not upload private communications without the
 consent of every participant, and never upload identity documents or personal data.
+
+--------------------------------------------------------------------------------
+TABLE D - PUBLIC EVIDENCE EXHIBITS
+--------------------------------------------------------------------------------
+Ref   Exhibit                                                    Source
+--------------------------------------------------------------------------------
+D-01  P-01 Crispy mandatory-meeting and strike-threat            Image FIles/
+      announcement (5:23 PM)                                     Parelllc Images
+D-02  P-02 Gremix meeting ping (5:29 PM) and KittyFangs reply    Image FIles/
+      (6:55 PM)                                                  Parelllc Images
+D-03  P-03 Thumbs-up reaction cited by the CEO as notice         Image FIles/
+                                                                 Parelllc Images
+D-04  P-04 KittyFangs strike appeal (7:02 PM)                    Image FIles/
+                                                                 Parelllc Images
+D-05  P-05 EMS/military objection (7:09 PM) and formal notice    Image FIles/
+      (7:56 PM)                                                  Parelllc Images
+D-06  P-06 CEO denies strike and threatens asset removal         Image FIles/
+      (7:57-8:03 PM)                                             Parelllc Images
+D-07  P-07 Second capture of the 8:00-8:03 PM exchange           Image FIles/
+                                                                 Parelllc Images
+D-08  T-01 Written leave notice (2 Nov, 11:35 PM)                Image FIles/
+                                                                 Twilight Studio
+                                                                 Images
+D-09  T-02 Second capture of the announcement (6:23 PM)          Image FIles/
+                                                                 Twilight Studio
+                                                                 Images
+D-10  T-03 ParelVR Steam listing naming Twilight Studio as       Image FIles/
+      developer                                                  Twilight Studio
+                                                                 Images
+D-11  Document 13 - full supplied message log (2-3 November      Documents/
+      2026)                                                      13-Supplied
+                                                                 Message Log
+
+Hashes, sizes and capture notes are in Image FIles/IMAGE-MANIFEST.txt. The
+transcript and contradiction analysis are in Document 12.
 
 --------------------------------------------------------------------------------
 CASE REGISTER - ENTRY TEMPLATE
@@ -112,6 +179,7 @@ ALLEGATION(S):      [one sentence per allegation; label as alleged]
 DATE(S) OF ACTS:    [dates or range]
 EVIDENCE HELD:      [contracts / DMs / invoices / logs / screenshots]
 EVIDENCE STATUS:    [private / sealed / public / filed with counsel]
+EXHIBIT REFS:       [e.g., P-01, P-04, T-01; see Document 11, Table D]
 LOSS CLAIMED:       [unpaid amount / credit / data / reputational]
 RELIEF SOUGHT:      [payment / credit / reinstatement / correction / other]
 RESPONSE FROM CEO:  [none / date / summary]
@@ -145,6 +213,8 @@ WHAT MAKES AN ENTRY USABLE IN COURT
 - Corroboration from independent witnesses or organisations.
 - A documented response (or non-response) from the CEO.
 - Evidence of loss: unpaid amounts, removed credit, deleted content, lost work.
+- A record of the exact policy, notice and penalty applied, not only the
+  complainant's description of it.
 
 Two weak entries do not become strong because they are repeated. Precision matters
 more than volume.
@@ -158,6 +228,9 @@ PRIVACY AND SAFETY
 - If you fear retaliation, report anonymously and keep originals in a safe place.
 - If you are in immediate danger, contact local emergency services, not this
   repository.
+- The signing name "Freya Nyx Rosemire" is included only because the complainant
+  supplied it in a signed notice. Do not treat it as a verified legal name or reuse
+  it for any other purpose.
 
 ================================================================================
 END OF DOCUMENT 11

@@ -1,24 +1,27 @@
 ================================================================================
-DOCUMENT 07 - SUPPLEMENTARY EXHIBIT
-DISCORD EXCHANGE: GREMIX AND EYEBALLS
+DOCUMENT 07 - DISCORD EXHIBIT
+GREMIX AND EYEBALLS - THE LATER EXCHANGE
 ================================================================================
 
-STATUS: SUPPLEMENTARY ONLY
+STATUS: PART OF THE PRIMARY CHRONOLOGY
 --------------------------------------------------------------------------------
-This exchange is included as background evidence of how concerns were received. It
-is NOT the subject of this archive. The archive is a public notice about systemic
-conduct (Document 01) affecting multiple organisations and members, and it is not a
-Twilight Studio claim of ownership over Parelllc or ParelVR.
+This exchange is no longer "supplementary only". It is the later exchange in the
+same dispute. The precipitating event is the 2-3 November 2026 meeting and strike
+sequence in Document 12. This document records what happened when the complainant
+raised that sequence with the CEO afterwards.
+
+Read Document 12 first. It contains the screenshots, the time-stamp warning and
+the seven contradictions between the CEO's written policy and his later account.
+This document adds the CEO's own description of the notice he says he gave.
 
 The exchange is reproduced verbatim because it shows, in the complainant's words,
 the response to a request for discussion: the concerns are treated as an argument,
-the policy is defended, and the conversation is ended without resolution. It is
-included for completeness and should be read alongside Documents 01-06 and 08-11,
-not in place of them.
+the policy is defended, and the conversation is ended without resolution.
 
 Seven screenshots were referenced in this exchange ("Image" x 7) but the image
 files themselves were not attached to the source material. Timestamps are given as
-they appeared.
+they appeared. The ten images in the Image FIles folder are the separate 2-3
+November exhibits described in Document 12, not these seven.
 
 --------------------------------------------------------------------------------
 
@@ -74,17 +77,57 @@ here to argue. goodbye!
 
 --------------------------------------------------------------------------------
 
+THE THREE CLAIMS IN THIS EXCHANGE
+--------------------------------------------------------------------------------
+
+1. "I did tell him and give him time in advanced, as he even reacted in a thumbs
+   up mind you."
+
+   This is the CEO's advance-notice defence. It rests on a thumbs-up reaction.
+   Exhibit P-03 shows the reaction, but Discord does not display reaction
+   timestamps. The exhibit cannot show when the reaction was added, whether the
+   complainant had read the message, or whether the reaction was an
+   acknowledgement of the meeting rather than a routine reaction.
+
+   The complainant states the reaction was added after returning from work. The
+   reaction is not a meeting schedule, an agenda, a notice period or an attendance
+   confirmation. Document 12, section 3.5, sets out the point.
+
+2. "He did not say anything about it until after I issued a warning."
+
+   This is contradicted by the record in Document 12. The complainant posted a
+   written leave notice on 2 November at 11:35 PM, approximately eighteen hours
+   before the meeting. The complainant also replied on returning from construction
+   at 6:55 PM (exhibit clock) and appealed the strike at 7:02 PM. The CEO's own
+   announcement stated that physical work was an accepted excuse subject to proof.
+   The leave notice was the reason; no direct-message request for further proof
+   appears before the strike.
+
+3. "Hes not a freelancer / not to us."
+
+   This is the other side of the contradiction identified in Document 12, section
+   3.7. The CEO treats the complainant as outside the contract for protection
+   purposes ("not a freelancer", "ur contract doesnt really count") while applying
+   the company's mandatory-meeting and strike rules to the complainant. A person
+   cannot be outside the contract when it limits the company's obligations and
+   inside it when it imposes discipline.
+
 WHY IT IS INCLUDED
 --------------------------------------------------------------------------------
 - It is one documented example of a member raising a contract concern and being
   met with dismissal rather than a policy discussion.
 - It corroborates the identity link alleged elsewhere: that "Crispy" and "Gremix"
-  are the same account/person.
+  are the same operator.
+- It records the CEO's own advance-notice defence, which can be tested against the
+  reaction exhibit and the time-stamp limits in Document 12.
 - It shows the exchange ending without resolution, consistent with the broader
   allegation that the CEO does not cooperate with affected members.
+- It records the CEO's statement that the complainant is "not a freelancer / not
+  to us", which is relevant to the contract and classification questions in
+  Documents 09 and 10.
 
 It does not, on its own, establish the wider pattern. The wider pattern is the
-subject of Documents 01-06 and 08-11.
+subject of Documents 01-06, 08-12.
 
 ================================================================================
 END OF DOCUMENT 07

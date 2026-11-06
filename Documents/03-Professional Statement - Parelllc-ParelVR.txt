@@ -4,10 +4,28 @@ PARELVR / PARELLLC
 ================================================================================
 
 Context: This statement is published in the same public-notice archive as Documents
-01, 02 and 04-11. It records allegations; it is not a court order, judgment or
+01, 02 and 04-12. It records allegations; it is not a court order, judgment or
 finding of fact, and it is not legal advice. The statement speaks for the affected
 organisations and individuals it names, not for Twilight Studio as an owner of
 Parelllc or ParelVR.
+
+EVIDENTIARY CONTEXT
+--------------------------------------------------------------------------------
+This statement addresses the wider allegations: other VR providers, contract
+breaches, appropriated code, ported worlds, AI-generated content and jurisdiction.
+It should be read alongside Document 12, which documents the precipitating 2-3
+November 2026 meeting and strike sequence.
+
+The 3 November sequence is the concrete example behind the general claim that the
+company imposes policies outside contract and penalises contributors who object.
+Document 12 sets out the written announcement, the leave notice, the strike notice,
+the CEO's denial and the asset-removal threat. The wider allegations in this
+statement depend on separate evidence and are not proven by Document 12 alone.
+
+The complainant is one individual using the names "eyeballs", "KittyFangs.exe" and
+the Twilight Studio Head Administrator title. The CEO is referred to as "Crispy",
+"CrispyAl_T" and "Gremix"; the archive treats these as the same operator, subject to
+verification.
 
 --------------------------------------------------------------------------------
 
@@ -51,6 +69,18 @@ corroborates these allegations.
 
 All claims are substantiated and will be presented to the relevant authorities
 once legal proceedings commence.
+
+EVIDENTIARY NOTE ON THIS STATEMENT
+--------------------------------------------------------------------------------
+The statement uses strong language ("unlawful", "illegal", "appropriated"). In this
+archive those words are the complainant's characterisations, not findings. The
+factual record for the meeting and strike issue is in Document 12. The factual
+record for the wider allegations is referred to in Documents 01, 04, 08 and 11 and
+has not yet been reproduced in full.
+
+The sentence "All claims are substantiated" is the author's assertion. It is not a
+court finding. Counsel should verify each claim against the underlying records
+before filing.
 
 ================================================================================
 END OF DOCUMENT 03

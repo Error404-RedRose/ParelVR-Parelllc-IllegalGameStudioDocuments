@@ -10,8 +10,8 @@ the full notice and right of reply.
 WHAT THIS IS
 --------------------------------------------------------------------------------
 This repository is a public notice file. It records allegations of abuse of power by
-the CEO of Parelllc / ParelVR, who operates inside Discord under the names "Gremix"
-and "Crispy".
+the CEO of Parelllc / ParelVR, who operates inside Discord under the names "Crispy",
+"CrispyAl_T" and "Gremix".
 
 It is NOT:
 - a claim by Twilight Studio of ownership over Parelllc, ParelVR or their products;
@@ -25,9 +25,10 @@ It IS:
 - an invitation for the CEO to respond and resolve the issues before publication;
 - a place where affected parties can add their own documentation and open Issues.
 
-The complainant (previously "eyeballs", of Twilight Studio) is ONE participant. Many
-other organisations and individuals report the same pattern and have not yet filed
-their documents here. This archive will grow as those records are contributed.
+The complainant is ONE participant. The names "eyeballs", "KittyFangs.exe" and the
+Twilight Studio Head Administrator refer to the same individual. Many other
+organisations and individuals report the same pattern and have not yet filed their
+documents here. This archive will grow as those records are contributed.
 
 WHAT THIS IS NOT ABOUT
 --------------------------------------------------------------------------------
@@ -36,12 +37,59 @@ of Parelllc, ParelVR, their code, their worlds or their products. Twilight Studi
 one affected contractor among many. The subject is the conduct of the leadership and
 whether affected parties can obtain resolution without litigation.
 
+THE PRECIPITATING EVENT: 3 NOVEMBER 2026
+--------------------------------------------------------------------------------
+The dispute did not begin with the later public statements. It began when the CEO
+imposed a same-day mandatory meeting and a strike penalty during the complainant's
+pre-notified construction leave.
+
+The sequence, documented in Document 12:
+
+Date and time              Event
+-------------------------  ------------------------------------------------------
+2 Nov 2026, 11:35 PM       The complainant posts a written leave notice: unavailable
+                           for several days because of construction work with their
+                           father; approximately one week.
+3 Nov 2026, same day       The Crispy account announces a mandatory meeting:
+                           "today ill be striking people for missing meetings...
+                           this is a mandatory meeting. if you cannot attend due to
+                           reasons such as physcial work, medical issue, or anything
+                           actually reasonable please dm me with PROOF, if no proof
+                           i will count it as a strike, thank you, @everyone"
+3 Nov 2026, same day       Gremix pings: "we are starting a meeting here shortly".
+3 Nov 2026, same day       The complainant replies on returning from construction:
+                           "i just got back from construction, so i can attend soon".
+3 Nov 2026, same day       The complainant is notified of "a strike (1 of 3) for
+                           missing a scheduled meeting" and appeals it in writing.
+3 Nov 2026, same day       The CEO says: "there was no strikes given so no worries.
+                           it was all just warning"; "for u it doesnt really count ur
+                           contract"; "u never reported that to us"; and "we can take
+                           donw ur assets from the storage".
+
+The exhibits show five things clearly:
+
+1. The meeting was announced on the same day it was held. No schedule, agenda or
+   notice period appears in the record.
+2. The complainant had already given written notice of the construction work.
+3. The complainant replied as soon as they returned from work, and the strike was
+   communicated within minutes of that reply.
+4. The CEO's own announcement explicitly threatened strikes, yet the CEO later said
+   no strike had been given.
+5. The CEO accepted the work explanation ("i said ur good") and then threatened to
+   remove the complainant's assets because of the complainant's tone.
+
+This is the strongest documented example of the pattern because the contradictions
+are internal to the CEO's own written statements. The full transcript, the
+time-stamp warning and the seven contradictions are in Document 12.
+
 THE ALLEGED PATTERN
 --------------------------------------------------------------------------------
 1. Policy imposed outside contract
    Unannounced "emergency meetings" enforced against freelancers and partner studios,
    with a 1/3 strike for missing them or not "saying hi", without a formal contract,
-   notice or consent.
+   notice or consent. The 3 November 2026 sequence is the primary example: a
+   same-day mandatory meeting, a written strike threat, a pre-existing leave notice
+   that was not applied, and a denial that any strike was given.
 
 2. Bans without justification
    Members banned without discussion, a stated breach or an appeal, described as
@@ -63,6 +111,13 @@ THE ALLEGED PATTERN
    A Linux server allegedly running hacking tools that give the owner full access to
    and control over connected PCs.
 
+7. Denial and retaliation after objection
+   When the complainant objected in writing and proposed a written contract, the CEO
+   recharacterised the strike as "just a warning", said the complainant's contract
+   "doesnt really count", and threatened to remove the complainant's assets from
+   storage. The threat was conditioned on the complainant's tone, not on any policy
+   violation.
+
 WHO IS AFFECTED
 --------------------------------------------------------------------------------
 - Multiple VR and game organisations reporting the same experience with the same CEO.
@@ -70,7 +125,8 @@ WHO IS AFFECTED
 - Contributors whose work, credit or compensation is alleged to have been removed.
 - Investors and backers whose funds are alleged to be at risk.
 - Members and users who hold sealed or DM documentation of comparable treatment.
-- The complainant, who previously used the name "eyeballs".
+- The complainant, who previously used the name "eyeballs" and now operates as
+  KittyFangs.exe, the Twilight Studio Head Administrator.
 
 The register in Document 11 records the parties and organisations identified so far,
 including those whose documents are still being gathered. Legal names are only listed
@@ -78,12 +134,25 @@ where they are public or have been provided with consent and verification.
 
 EVIDENCE BEING GATHERED
 --------------------------------------------------------------------------------
+Primary exhibits for the 3 November 2026 sequence (Document 12):
+- P-01: the mandatory-meeting and strike-threat announcement.
+- P-02: the meeting ping and the complainant's reply on returning from work.
+- P-03: the thumbs-up reaction the CEO later cites as advance notice.
+- P-04: the strike appeal, quoting the leave notice and the meeting ping.
+- P-05: the objection to emergency-style meetings and the formal notice.
+- P-06 and P-07: the CEO's denial and the asset-removal threat, in two captures.
+- T-01: the written leave notice at 11:35 PM on 2 November.
+- T-02: a second capture of the announcement, showing the one-hour display offset.
+- T-03: the Steam listing naming Twilight Studio as developer.
+
+Wider evidence:
 - Direct-message (DM) records between affected members and the CEO.
 - Publicly saved documents and posts concerning Parelllc.
 - Sealed documents held by other members and organisations.
 - Internal communications described as clear evidence of the alleged violations.
 - Discord archive records.
-- Screenshots referenced in the supplementary exchange (Document 07).
+- The seven screenshots referenced in the supplementary exchange (Document 07) are
+  referred to but were not supplied.
 - Records from Steam publication, contracts, invoices and payment flows.
 
 Because several records are sealed or privately held, this repository is an index and
@@ -94,8 +163,17 @@ NOTICE BEFORE PUBLICATION
 The CEO is asked to resolve the issues before the game is released on Steam. The
 concerns are described as accumulating: unresolved bans, unpaid or uncredited work,
 allegedly misappropriated code, illegal ports, and policies imposed without contract.
-If they remain unresolved at publication, affected parties state they will cite them
-in public reviews, platform reports and, where counsel advises, court filings.
+
+The 3 November sequence adds specific requests:
+- withdraw the strike record and confirm in writing that no strike was issued;
+- confirm in writing that the 2 November leave notice was received;
+- confirm that no assets will be removed or withheld in response to a policy
+  objection;
+- put any meeting, attendance or penalty policy in a written contract before
+  applying it to a partner studio or contractor.
+
+If the issues remain unresolved at publication, affected parties state they will cite
+them in public reviews, platform reports and, where counsel advises, court filings.
 
 This is a notice and an opportunity to respond. It is not a threat.
 
@@ -114,11 +192,12 @@ SOURCE DOCUMENTS
 - Document 02 - the complainant's formal complaint (one case study).
 - Document 03 - the Professional Statement.
 - Documents 04-06 - public statements by KittyFangs.exe (OP).
-- Document 07 - supplementary Discord exhibit (background only).
+- Document 07 - the later Discord exhibit, including the "thumbs up" claim.
 - Document 08 - timeline and key facts.
 - Document 09 - United States legal framework and authorities.
 - Document 10 - international and common-law framework and authorities.
 - Document 11 - involved parties and case register.
+- Document 12 - primary evidence exhibit for the 2-3 November 2026 sequence.
 
 ================================================================================
 END OF DOCUMENT 01

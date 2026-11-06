@@ -1,0 +1,330 @@
+================================================================================
+DOCUMENT 13 - SUPPLIED MESSAGE LOG
+2-3 NOVEMBER 2026 - FULL TRANSCRIPT AS SUPPLIED
+================================================================================
+
+Status: Source transcript supplied by the complainant. Allegations only. Not a
+court order, not a finding of fact and not legal advice. The images and the
+original Discord export govern where they differ.
+
+WHY THIS DOCUMENT EXISTS
+--------------------------------------------------------------------------------
+Document 12 isolates the meeting and strike sequence. This document preserves the
+full message log supplied with the complaint, so the reader can see the sequence
+in context: the earlier partnership messages, the meeting announcement, the
+strike exchange and the later messages.
+
+The log is reproduced as supplied. Spelling, grammar, punctuation and line breaks
+are preserved except where line-wrapping was required. Obvious platform artefacts
+are kept. The only redaction is the licence key (see below).
+
+TIME-STAMP NOTE
+--------------------------------------------------------------------------------
+The copied log uses a clock exactly one hour ahead of the 3 November screenshots.
+For example:
+
+  Event                         Copied log   Screenshot
+  ----------------------------  -----------  ----------
+  Gremix meeting ping           6:29 PM      5:29 PM
+  KittyFangs "just got back"    7:55 PM      6:55 PM
+  KittyFangs strike appeal      8:02 PM      7:02 PM
+  Gremix "no strikes given"     8:57 PM      7:57 PM
+  Gremix asset threat           9:03 PM      8:03 PM
+
+The 2 November leave notice matches in both (11:35 PM). Quote a time with its
+source and do not mix the two clocks in one calculation. See Document 12,
+"Time-stamp note".
+
+REDACTION NOTE
+--------------------------------------------------------------------------------
+The log contains a Creator Studio licence key and account details. The licence
+key has been replaced with "[REDACTED - licence key]" because publishing a live
+credential would create a security risk and is not necessary to the complaint.
+The product name, account label, status and expiry date are retained. The
+original is held privately by the complainant.
+
+The log also contains the public GitHub URL of the Creator Studio repository. It
+is retained because it is part of the supplied message; no private repository or
+credential is included.
+
+IDENTITY NOTE
+--------------------------------------------------------------------------------
+The names "eyeballs", "KittyFangs.exe" and the Twilight Studio Head Administrator
+refer to the same individual. The CEO is referred to as "Crispy", "CrispyAl_T"
+and "Gremix"; the archive treats these as the same operator, subject to
+verification. See Documents 11 and 12.
+
+--------------------------------------------------------------------------------
+FULL LOG AS SUPPLIED
+--------------------------------------------------------------------------------
+
+KittyFangs.exe - 11/2/2026 11:35 PM
+I will be unavailable for PVR development for several more days due to extensive
+construction work with my father. We anticipate this will take approximately one
+week. During this period, I will use AI to advance other projects that do not
+require direct keyboard input, employing the Creator Studio framework and Google
+Remote Desktop. I remain committed to completing the remaining work in PVR before
+the release, but I must postpone the effort to accommodate the November
+construction objectives for our long-term renovation of a $1million-plus home, a
+project the my father and I have been working on for the past three years.
+
+KittyFangs.exe - 11/3/2026 12:28 AM
+Dear Parelllc CEO,
+
+Thank you for reaching out about partnering on ParelVR. I'd like to outline how
+Twilight Studio's workflows could support the collaboration.
+
+Twilight Studio's primary hub, Creator Studio, connects our Unity Cloud project,
+GitLab build pipeline, and payment workflow. Developers will use the Creator
+Studio applet to set up and manage their accounts, memberships, and payment
+access. Your onboarding workflow will also apply to my members.
+
+I've noted the staff application link for Twilight Studio creators interested in
+signing up to work with the Parelllc staff team. Members interested in working on
+Parelllc products through my studio will use the staff signup process and the
+admin panel you showed me. This will be the primary way for them to apply and get
+in touch with your team.
+
+KittyFangs.exe - 11/3/2026 12:29 AM
+Payments will continue to be managed by me through my direct business account,
+using PayPal or the business Wealthsimple account. This follows Twilight Studio's
+existing setup, where payments are routed through a business account. Creator
+Studio will remain our main interface for managing payments.
+
+TwiX creators receive 35% of revenue. Our sharing model supports individual
+contributors and collaborative teams, with revenue shares distributed to
+contributors' bank accounts. Subjected to change as more members are hired to work
+on Parelllc projects as for now it is just KittyFangs.exe who is working on this
+matter personally so I am willing to take less than 35% (rough) as due to being
+only a solo developer on Parelllc products currently.
+
+I won't contact you individually on behalf of members who want to work on Parelllc
+products; they should use the staff application and admin panel. Please keep an
+eye on your business email for applications or related messages.
+
+Projects will be staged on Unity Cloud with access controls. GitLab will support
+continuous integration, build delivery, and retrieval of unpacked builds when
+needed. I expect to take at least 1-3 years to grow onboard collaborators of
+Twilight Studio. Contributors will work as freelancers under the Canadian & Global
+Digital Arts Pact and handle applicable tax requirements using their SINs.
+
+I haven't yet drafted the full contract for us to agree on, so let's save that
+discussion for a voice call another day.
+
+Sincerely,
+Freya Nyx Rosemire
+Twilight Studio Head Administrator
+
+KittyFangs.exe - 11/3/2026 12:39 AM
+------
+And don't forget that you also have a personal/partnership contract with Twilight
+Studio. If you'd like, we can reverse the direction of the work and have you, your
+team members, or Parelllc work on Twilight Studio products and or educational
+experience in which I do offer as a game studio to get away from old and expensive
+collage degree dipolmas allowing anyone to work on site or online with us without
+needing a degree.
+
+I've already offered you a product key for Creator Studio. It's still very
+pre-alpha, but the key would give you full access and let you be part of Twilight
+Studio's inner software network.
+
+KittyFangs.exe - 11/3/2026 3:50 AM
+Please review my Creator Studio application by the end of the week and use the
+product token to activate it. This message will be short and once you open and
+active it you ill understand why I am asking this to be done soon espeically in
+the sense your moving closer with my Studio for Freelancer Partnerships.
+https://github.com/Error404-RedRose/AI-Creator-Studio--TwiX---PaidApp-
+
+✔ License created:
+  Key:        [REDACTED - licence key]
+  Product:    CreatorStudio
+  Account:    CrispyKey
+  Status:     active
+  Expires at: 2027-11-01T00:29:34Z
+
+GitHub
+GitHub - Error404-RedRose/AI-Creator-Studio--TwiX---PaidApp-: Creat...
+Creator Studio is an application developed by Twilight Studio for its developers
+and trusted members of the Twilight Studio community. It's a paid, licensed
+application designed to help freelancers...
+
+im sure you will also be happy to replace blender with real 3D cad tools as well
+that actally make game development easy, all these tools will enchant your
+devlopby thousands no matter you go manual or with some ai assitance. There is so
+much in here you need to review so please get to it before the end of this week
+its rather important as its no longer just a tool but a software hub for Twilight
+Studio partners and creators.
+
+Im sure the moment you touch it all the stuff in here is gonna be essental for
+your dev work as well because its all general tools needed to fit the gaps.
+
+KittyFangs.exe - 11/3/2026 4:08 AM
+I may also be hosting the unity bridge networked realtime synced project applet
+part of the unity applet in this software as well which can make both of us work
+in realtime on a unity project together later on this week which i will need your
+help testing the module. the goal being if a member needed help on a unity project
+they could quickly invite a member and get connected to assist a user in a project.
+
+Gremix - 11/3/2026 9:39 AM
+I love the message you sent. This is exactly what Parel LLC needs. Thank you!
+
+I'll be reviewing it hopefully today if I'm not busy throught today. If not then
+I'll review it by the 7th.
+
+I'll try and push out the updated game cersion by the 5th then I'll completely stop
+developing front end to allow your team to fully take over development.
+
+If there is any software youd like to have be used within Parel LLC products then
+feel free to but me up to have me review them!
+
+Gremix - 11/3/2026 12:42 PM
+heres a couple different photos we can use for the ParelVR home hub
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+as the thumbnail
+the first one i dont like but ehh
+
+Gremix - 11/3/2026 6:29 PM
+Hey @KittyFangs.exe we are starting a meeting here shortly
+
+KittyFangs.exe - 11/3/2026 7:55 PM
+i just got back from construction, so i can attend soon
+
+KittyFangs.exe - 11/3/2026 8:02 PM
+I have been notified that I have received a strike (1 of 3) for missing a scheduled
+meeting.
+I was not formally informed of the meeting before this message was sent.
+
+I worked from 9:00AM to 5:00PM with my father and just returned at 8:00PM.
+The project is a $1million construction venture; failure to address it now will
+result in damage to the building during winter.
+
+Given the hazardous work conditions, I could not attend the meeting or take a call
+on my phone while focused on essential tasks. Had I received formal notice prior,
+my inability to attend would have been recorded and the strike avoided.
+
+I apologise for this misunderstanding and for any unread messages. This reply is
+intended to clarify the situation.
+
+My Message: Yesterday 11:35PM
+Your meeting ping: 6:35PM Today
+
+KittyFangs.exe - 11/3/2026 8:09 PM
+Please schedule important meetings-whether they are tests or not-especially after
+strikes have been issued. I understand the need for testing, but strikes cannot be
+avoided without a one-week notice. The unplanned meeting was unprofessional on your
+part. I am unaware of Shadow's situation, but I know you have caught members
+unaware and I was already on sceduled leave. This is a development crew, not a
+military council; plans should be known at least months in advance. I do not wish
+to discuss this misunderstanding further. If this occurs again, I will discontinue
+my partnership with Parelllc because I do not want my team dealing with such
+issues. This is not a military meeting, and there is no risk of serious harm. It is
+not an EMS hotline; please plan matters like a professional business. I cannot
+attend unplanned, urgent meetings even though I previously informed you. I will not
+subject my team to emergency-style meetings that include strikes.
+
+KittyFangs.exe - 11/3/2026 8:56 PM
+Dear Parelllc CEO,
+
+A scheduled call is arranged to review today's leadership concerns, the unplanned
+meeting, and strike-related issues. I would prefer to address these matters through
+a formal written message, as I have previously done. Alternatively, we may agree on
+a time before Friday in which I will issue a written contract between Twilight
+Studio and Parelllc.
+
+The actions you performed today constitute a complete termination of my contract,
+as they represent unplanned and unorganized harassment intended for testing
+purposes.
+
+I believe you have exceeded your authority and failed to fulfill proper leadership
+responsibilities. I will be unavailable on Discord until Friday. If I am removed
+from the server, I understand and acknowledge that as well but the clear fact that
+my skills-and those of my team-are valuable is already there infront of your face
+in realtime. I have demonstrated my capabilities and how AI logic can be enhanced,
+but it appears you are overstepping business boundaries and treating this as an EMS
+hotline.
+
+Sincerely,
+Twilight Studio Head Administrator
+
+Gremix - 11/3/2026 8:57 PM
+yep im on it, ive already deleted it, also there was no strikes given so no worries.
+it was all just warning
+idk what ayla told ya but it was a warning i issue. nothing bad.
+ive already deleted it, but idk if you read the full thing, all i needed was proof
+or for you to tell me you where working
+
+KittyFangs.exe - 11/3/2026 8:58 PM
+I don't teally care. I am not dealing with unorganized leadership were makingf a
+contract with terms if you dont agree or agree we can move farther on there. YOur
+treating me like a EMS staff member.
+
+Gremix - 11/3/2026 8:58 PM
+for u it doesnt really count ur contract, thats why it was a warning
+
+KittyFangs.exe - 11/3/2026 8:59 PM
+buddy I am fighting 1 hour of sleep and 67 hours of construction work on mine and my
+fathers 72 million dollars worth of rental properties we run.
+
+Gremix - 11/3/2026 9:00 PM
+idk if u read, but ur contract, i just gave u a warning because again u never
+reported that to us.
+how am i suppose to know you where working yk.
+
+KittyFangs.exe - 11/3/2026 9:01 PM
+well Parelllc CEO, I don't know if your reading either clearly not as from what i
+seen in the timestamps
+must I ping again the messages you are to read above or should I just leave now
+
+Gremix - 11/3/2026 9:03 PM
+well u can leave if thats how ur going to act. we can take donw ur assets from the
+storage.
+i gave u the rules, i told ya i just need proof but told u u where contract, and u
+just got a warning. but since u told me u where working irl, i said ur good
+but if your going to act rude/be rude then yes feel free to leave. im dealing with 3
+different situations and more.
+
+--------------------------------------------------------------------------------
+WHAT THIS LOG ADDS
+--------------------------------------------------------------------------------
+1. The 2 November 11:35 PM leave notice is in the same channel as the meeting
+   announcement. It is not a private aside the CEO could not have seen.
+2. The 3 November daytime messages show the parties were in active contact about
+   the partnership before the meeting ping. The CEO had the channel open.
+3. The meeting ping was sent at 6:29 PM (copied-log clock) and the complainant
+   replied at 7:55 PM on returning from construction.
+4. The strike appeal at 8:02 PM quotes the leave notice and the 6:35 PM ping.
+5. The CEO's 8:57 PM message denies a strike; the 8:58 PM message says the contract
+   does not count; the 9:00 PM message says the complainant never reported; the
+   9:03 PM message threatens to remove the complainant's assets.
+6. The final message says "since u told me u where working irl, i said ur good",
+   which acknowledges the work explanation, and then imposes the asset threat
+   conditional on the complainant's tone.
+
+The log does not, by itself, prove the wider allegations in Documents 01-11. It is
+the contemporaneous text of the meeting and strike dispute.
+
+--------------------------------------------------------------------------------
+RELATED DOCUMENTS
+--------------------------------------------------------------------------------
+- Document 01 - executive summary; the precipitating event.
+- Document 02 - formal complaint; the same events in narrative form.
+- Document 07 - the later Gremix / eyeballs exchange.
+- Document 08 - timeline and key facts.
+- Document 09 - United States authorities, section 5A.
+- Document 10 - international and common-law authorities, section 8A.
+- Document 11 - parties, identity consolidation and exhibit register.
+- Document 12 - the focused evidence exhibit with the contradiction analysis.
+- Image FIles/IMAGE-MANIFEST.txt - the image hashes and capture notes.
+
+================================================================================
+END OF DOCUMENT 13
+================================================================================

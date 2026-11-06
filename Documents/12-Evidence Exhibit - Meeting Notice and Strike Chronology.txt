@@ -1,0 +1,636 @@
+================================================================================
+DOCUMENT 12 - EVIDENCE EXHIBIT
+THE 2-3 NOVEMBER 2026 MEETING AND STRIKE CHRONOLOGY
+================================================================================
+
+Status: Primary evidence exhibit. Allegations only. Not a court order, not a
+lawsuit, not a finding of fact and not legal advice. The CEO and every named
+person have a right of reply. See the repository README.
+
+WHY THIS DOCUMENT EXISTS
+--------------------------------------------------------------------------------
+The dispute did not begin with the later public statements in Documents 04-06.
+It began on 2-3 November 2026, when the CEO of Parelllc / ParelVR imposed a
+same-day mandatory meeting and a strike penalty during the complainant's
+pre-notified construction leave, then denied that a strike had been given.
+
+This document isolates that sequence. It reproduces the messages as they appear
+in the supplied screenshots and in the supplied message log, identifies the
+contradictions between the CEO's statements and his own written policy, and
+states what the exhibits do and do not prove.
+
+The complainant's position is that the record shows the CEO, not the
+complainant, acted inconsistently: notice was given, the meeting was announced
+with only hours of notice, a strike was threatened and communicated, and the
+complainant was penalised for being at work after having said they would be at
+work.
+
+IDENTITY AND NAMING NOTE
+--------------------------------------------------------------------------------
+For the avoidance of doubt, this archive now records that the following are one
+individual:
+
+- "eyeballs" (the name used in Document 07 and earlier drafts);
+- "KittyFangs.exe" (the Discord username used in Documents 04-06 and in the
+  exhibits); and
+- the Twilight Studio Head Administrator who signs the 3 November 2026 notices
+  as "Freya Nyx Rosemire".
+
+The link is asserted by the complainant and is consistent across the exhibits:
+the same account posts the leave notice, replies to the meeting ping, files the
+strike appeal and signs the formal notice. The signing name is reproduced
+because the complainant supplied it in a signed notice; it is not asserted to be
+a verified legal name.
+
+The archive also continues to treat "Crispy", "CrispyAl_T" and "Gremix" as the
+same operator. That link is asserted by the complainant and is corroborated by
+the exchange in Document 07. It remains an allegation pending verification.
+
+TIME-STAMP NOTE - READ BEFORE QUOTING ANY TIME
+--------------------------------------------------------------------------------
+The 3 November screenshots and the copied message log do not use the same
+clock. The 3 November screenshots consistently display times exactly one hour
+earlier than the copied log. The 2 November leave notice matches in both
+(11:35 PM):
+
+  Event                         Screenshot clock   Copied-log clock
+  ----------------------------  -----------------  -----------------
+  Gremix meeting ping           5:29 PM            6:29 PM
+  KittyFangs "just got back"    6:55 PM            7:55 PM
+  KittyFangs strike appeal      7:02 PM            8:02 PM
+  Gremix "no strikes given"     7:57 PM            8:57 PM
+  Gremix asset threat           8:03 PM            9:03 PM
+
+The one-hour difference is a display-timezone difference between the device
+that produced the screenshots and the client that produced the copied log. It
+does not change the order of events, the intervals between them, or the content
+of any message.
+
+Rules for citation:
+1. Quote a time with the source that displays it, e.g. "5:29 PM as displayed in
+   Exhibit P-02" or "6:29 PM as recorded in the copied message log".
+2. Do not mix the two clocks in a single calculation.
+3. Intervals should be calculated within one clock, not across both.
+4. The announcement is displayed at 5:23 PM in Exhibit P-01 and at 6:23 PM in
+   the crop at Exhibit T-02. That is the same one-hour display difference.
+
+Discord does not display reaction timestamps to users. A reaction shown in an
+exhibit cannot establish when the reaction was added, whether it was added
+before or after a meeting, or that the person who reacted read the message. The
+complainant states the thumbs-up reaction was added after returning from
+construction; the exhibit neither confirms nor refutes that statement.
+
+EXHIBIT INDEX
+--------------------------------------------------------------------------------
+Exhibit  File                                                              Offered to show
+-------  ----------------------------------------------------------------  ----------------
+P-01     Parelllc-01-2026-11-03-Crispy-mandatory-meeting-strike-threat-    CEO announces a
+         5-23PM.png                                                        mandatory meeting
+                                                                           and explicitly
+                                                                           threatens strikes.
+P-02     Parelllc-02-2026-11-03-Gremix-meeting-ping-5-29PM-and-reply-      The meeting ping and
+         6-55PM.png                                                        the complainant's
+                                                                           reply on returning
+                                                                           from construction.
+P-03     Parelllc-03-2026-11-03-thumbsup-reaction-cited-as-notice.png      The reaction later
+                                                                           cited by the CEO as
+                                                                           "advance notice".
+P-04     Parelllc-04-2026-11-03-strike-appeal-7-02PM.png                  The strike was
+                                                                           communicated; the
+                                                                           leave notice and
+                                                                           meeting ping are
+                                                                           quoted in the appeal.
+P-05     Parelllc-05-2026-11-03-EMS-objection-and-formal-notice-            The objection to
+         7-09-7-56PM.png                                                   emergency-style
+                                                                           meetings and the
+                                                                           formal notice of
+                                                                           contract terms.
+P-06     Parelllc-06-2026-11-03-Gremix-denies-strike-and-threatens-        The CEO denies a
+         assets-7-57-8-03PM.png                                            strike, then
+                                                                           threatens to remove
+                                                                           the complainant's
+                                                                           assets.
+P-07     Parelllc-07-2026-11-03-Gremix-warning-and-asset-threat-           The same exchange
+         8-00-8-03PM.png                                                   in a second capture;
+                                                                           includes "u never
+                                                                           reported that to us"
+                                                                           and the asset threat.
+T-01     Twilight-01-2026-11-02-leave-notice-11-35PM-and-7-04PM-           The written leave
+         note.png                                                          notice, posted the
+                                                                           night before the
+                                                                           meeting.
+T-02     Twilight-02-2026-11-03-mandatory-meeting-timestamp-crop-           A second capture of
+         6-23PM.png                                                        the announcement,
+                                                                           showing the one-hour
+                                                                           display difference.
+T-03     Twilight-03-ParelVR-Steam-listing-Twilight-Studio-credited-       The Steam listing
+         as-developer.png                                                  naming Twilight
+                                                                           Studio as developer,
+                                                                           relevant to credit.
+
+All ten image files are in the "Image FIles" folder. The folder spelling
+("FIles") is retained as created. See IMAGE-MANIFEST.txt for SHA-256 hashes,
+descriptions and capture notes.
+
+1. VERBATIM TRANSCRIPT
+--------------------------------------------------------------------------------
+Text is reproduced from the screenshots and the supplied message log. Obvious
+OCR artifacts are corrected only where the supplied log confirms the wording;
+otherwise the reading is marked [sic] or [unclear]. The originals govern.
+
+1.1  2 November 2026 - the leave notice
+
+Exhibit T-01 displays two messages under "Yesterday":
+
+  KittyFangs.exe - Yesterday at 7:04 PM
+  ok i noted it
+
+  KittyFangs.exe - Yesterday at 11:35 PM
+  I will be unavailable for PVR development for several more days due to
+  extensive construction work with my father. We anticipate this will take
+  approximately one week. During this period, I will use AI to advance other
+  projects that do not require direct keyboard input, employing the Creator
+  Studio framework and Google Remote Desktop. I remain committed to completing
+  the remaining work in PVR before the release, but I must postpone the effort
+  to accommodate the November construction objectives for our long-term
+  renovation of a $1million-plus home, a project the my father and I have been
+  working on for the past three years.
+
+The copied log dates this message 11/2/2026 11:35 PM. Read with the meeting on
+3 November, the notice was posted approximately eighteen hours before the
+meeting was announced. The full supplied message log is in Document 13.
+
+1.2  3 November 2026 - the mandatory-meeting announcement
+
+Exhibit P-01 (displayed at 5:23 PM) and Exhibit T-02 (displayed at 6:23 PM)
+reproduce the same message from the Crispy account:
+
+  Crispy - Yesterday at 5:23 PM
+  we are starting the join ups for meetings, i expect everyone in Parel LLC to
+  joion this meeting, today ill be striking people for missing meetings. this
+  has been a very common thing ive been seeing in Parel LLC, we're not going to
+  miss meetings from now on. this is a mandatory meeting. if you cannot attend
+  due to reasons such as physcial work, medical issue, or anything actually
+  reasonable please dm me with PROOF, if no proof i will count it as a strike,
+  thank you,
+  @everyone
+
+This message is the source of the strike policy. It is the CEO's own written
+statement that (a) the meeting is mandatory, (b) strikes will be issued for
+missing meetings, and (c) physical work is an accepted excuse only if proof is
+sent by direct message.
+
+1.3  3 November 2026 - the meeting ping and the reply
+
+Exhibit P-02:
+
+  Gremix - Yesterday at 5:29 PM
+  Hey @KittyFangs.exe we are starting a meeting here shortly
+
+  [a reply preview repeats the same ping]
+
+  KittyFangs.exe - Yesterday at 6:55 PM
+  i just got back from construction, so i can attend soon
+
+The copied log records the ping at 6:29 PM and the reply at 7:55 PM. The
+complainant's strike appeal separately records "Your meeting ping: 6:35PM
+Today" (Exhibit P-04). The ping itself is not separately exhibited; the
+complainant's contemporaneous note is the source for the 6:35 PM reference.
+
+1.4  3 November 2026 - the reaction cited as notice
+
+Exhibit P-03 shows:
+
+  [thumbs-up] :thumbsup: reacted by KittyFangs.exe
+  ... are starting a meeting here shortly
+  ... am tryi...
+
+The reaction is attached to the meeting ping. The exhibit does not display a
+reaction timestamp. The CEO later relies on this reaction as proof of advance
+notice (Document 07: "he even reacted in a thumbs up mind you"). The
+complainant states the reaction was sent after returning from work. A reaction
+is not attendance, is not a written acknowledgement of a meeting schedule, and
+does not show when it was added.
+
+1.5  3 November 2026 - the strike appeal
+
+Exhibit P-04:
+
+  KittyFangs.exe - 7:02 PM
+  I have been notified that I have received a strike (1 of 3) for missing a
+  scheduled meeting.
+  I was not formally informed of the meeting before this message was sent.
+  I worked from 9:00AM to 5:00 PM with my father and just returned at 8:00 PM.
+  The project is a $1 million construction venture; failure to address it now
+  will result in damage to the building during winter.
+  Given the hazardous work conditions, I could not attend the meeting or take a
+  call on my phone while focused on essential tasks. Had I received formal
+  notice prior, my inability to attend would have been recorded and the strike
+  avoided.
+  I apologise for this misunderstanding and for any unread messages. This
+  reply is intended to clarify the situation.
+  My Message: Yesterday 11:35PM
+  Your meeting ping: 6:35PM Today
+
+The bottom of the same exhibit shows the Crispy announcement at 6:23 PM,
+placing the announcement, the ping and the strike appeal within approximately
+forty minutes on the exhibit clock.
+
+Note on the "8:00 PM" reference: the strike appeal's text says "just returned
+at 8:00 PM" while the screenshot header displays 7:02 PM. That is the same
+one-hour display offset. On the copied-log clock the message is 8:02 PM, and the
+text matches the clock the complainant was using.
+
+1.6  3 November 2026 - the objection to emergency-style meetings
+
+Exhibit P-05:
+
+  KittyFangs.exe - 7:09 PM
+  Please schedule important meetings-whether they are tests or not-especially
+  after strikes have been issued. I understand the need for testing, but
+  strikes cannot be avoided without a one-week notice. The unplanned meeting
+  was unprofessional on your part. I am unaware of Shadow's situation, but I
+  know you have caught [members] unaware and I was already on sceduled leave.
+  This is a development crew, not a military council; plans should [be] known
+  at least months in advance. I do not wish to discuss this misunderstanding
+  further. If this occurs again, I will discontinue my partnership with
+  Parelllc because I do not want my team dealing with such issues. This is not
+  a military meeting, and there is no risk of serious harm. It is not an EMS
+  hotline; please plan matters like a professional business. I cannot attend
+  unplanned, urgent meetings even though I previously informed you. I will not
+  subject my team to emergency-style meetings that include strikes.
+
+1.7  3 November 2026 - the formal notice
+
+Exhibit P-05:
+
+  KittyFangs.exe - 7:56 PM
+  Dear Parelllc CEO,
+  A scheduled call is arranged to review [today's] leadership concerns, the
+  unplanned meeting, and strike-related issues. I would prefer to address these
+  matters through a formal written message, as I have previously done.
+  Alternatively, we may agree on a time before Friday in which I will issue a
+  written contract between Twilight Studio and Parelllc.
+  The actions you performed [today] constitute a complete termination of my
+  contract, as they represent unplanned and unorganized harassment intended for
+  testing purposes.
+  I believe you have exceeded your authority and failed to fulfill proper
+  leadership [responsibilities]. I will [be] unavailable on Discord until
+  Friday. If I am removed from the server, I understand and acknowledge that as
+  well but the clear fact that my skills-and those of my team-are valuable is
+  already there infront of your face in realtime. I have demonstrated my
+  capabilities and how AI logic can be enhanced, but it appears you are
+  overstepping business boundaries and treating this as an EMS hotline.
+  Sincerely,
+  Twilight Studio Head Administrator
+
+1.8  3 November 2026 - the denial and the asset threat
+
+Exhibit P-06:
+
+  Gremix - 7:57 PM
+  yep im on it, ive already deleted it, also there was no strikes given so no
+  worries. it was all just warning
+  idk what ayla told ya but it was a warning i issue. nothing bad.
+  ive already deleted it, but idk if you read the full thing, all i needed was
+  proof or for you to tell me you where working
+
+  KittyFangs.exe - 7:58 PM
+  I don't teally care. I am not dealing with unorganized leadership were
+  makingf a contract with terms if you dont agree or agree we can move farther
+  on there. YOur treating me like a EMS staff member.
+
+  Gremix - 7:58 PM
+  for u it doesnt really count ur contract, thats why it was a warning
+
+  KittyFangs.exe - 7:59 PM
+  buddy I am fighting 1 hour of sleep and 67 hours of construction work on mine
+  and my fathers 72 million dollars worth of rental properties we run.
+
+  [KittyFangs quote of the "I don't teally care" message]
+
+  Gremix - 8:00 PM
+  idk if u read, but ur contract, i just gave u a warning because again u never
+  [reported] that to us. how am i to know you where working yk.
+
+  KittyFangs.exe - 8:01 PM
+  well Parelllc CEO, I don't know if your reading either clearly not as from
+  what i seen in the timestamps
+  must I ping again the messages you are to read above or should I just leave
+  now
+
+  Gremix - 8:03 PM
+  well u can leave if thats how ur going to act. we can take donw ur assets
+  from the storage.
+  i gave u the rules, i told ya i just need proof but told u u where contract,
+  and u just got a warning. but since u told me u where working irl, i said ur
+  [good]
+  but if your going to act rude/be rude then yes feel free to leave. im dealing
+  with 3 different situations and more.
+
+Exhibit P-07 is a second capture of the 8:00-8:03 PM portion and is consistent
+with P-06.
+
+2. CHRONOLOGY
+--------------------------------------------------------------------------------
+Seq  Exhibit clock   Copied-log clock  Actor          Event
+---  --------------  ----------------  -------------  --------------------------
+1    2 Nov 7:04 PM   2 Nov 7:04 PM     KittyFangs     "ok i noted it"
+2    2 Nov 11:35 PM  2 Nov 11:35 PM    KittyFangs     Leave notice: unavailable
+                                                      for several days due to
+                                                      construction
+3    3 Nov 5:23 PM   3 Nov 6:23 PM     Crispy         Mandatory meeting +
+                                                      strike threat, @everyone
+4    3 Nov 5:29 PM   3 Nov 6:29 PM     Gremix         "we are starting a
+                                                      meeting here shortly"
+5    not shown       not shown         KittyFangs     Thumbs-up reaction
+6    3 Nov 6:35 PM   3 Nov 6:35 PM     Gremix/meeting Meeting ping (as stated
+                                                      in the strike appeal)
+7    3 Nov 6:55 PM   3 Nov 7:55 PM     KittyFangs     "i just got back from
+                                                      construction, so i can
+                                                      attend soon"
+8    3 Nov 7:02 PM   3 Nov 8:02 PM     KittyFangs     Strike appeal: "I have
+                                                      been notified that I have
+                                                      received a strike (1 of 3)"
+9    3 Nov 7:09 PM   3 Nov 8:09 PM     KittyFangs     Objection to emergency-
+                                                      style meetings
+10   3 Nov 7:56 PM   3 Nov 8:56 PM     KittyFangs     Formal notice; contract
+                                                      terms before Friday
+11   3 Nov 7:57 PM   3 Nov 8:57 PM     Gremix         "there was no strikes
+                                                      given... it was all just
+                                                      warning"
+12   3 Nov 7:58 PM   3 Nov 8:58 PM     KittyFangs     "not dealing with
+                                                      unorganized leadership"
+13   3 Nov 7:58 PM   3 Nov 8:58 PM     Gremix         "for u it doesnt really
+                                                      count ur contract"
+14   3 Nov 7:59 PM   3 Nov 8:59 PM     KittyFangs     "1 hour of sleep and 67
+                                                      hours of construction work"
+15   3 Nov 8:00 PM   3 Nov 9:00 PM     Gremix         "u never reported that to
+                                                      us"
+16   3 Nov 8:01 PM   3 Nov 9:01 PM     KittyFangs     "read the timestamps"
+17   3 Nov 8:03 PM   3 Nov 9:03 PM     Gremix         "we can take donw ur assets
+                                                      from the storage"
+
+On either clock, the sequence is the same: notice the night before, a same-day
+announcement, a ping, a reply on returning from work, a strike notice, an
+objection, a denial, and a threat to remove assets.
+
+3. THE CONTRADICTIONS
+--------------------------------------------------------------------------------
+The following are direct comparisons between the CEO's written statements and
+the record. They are the strongest part of this exhibit because they do not
+depend on the wider allegations in Documents 01-06 and 09-11.
+
+3.1  "No strikes were given" versus "today ill be striking people"
+
+  Written policy (P-01, 5:23 PM):
+    "today ill be striking people for missing meetings"
+    "if no proof i will count it as a strike"
+
+  Strike notice received (P-04, 7:02 PM):
+    "I have been notified that I have received a strike (1 of 3)"
+
+  Later denial (P-06, 7:57 PM):
+    "there was no strikes given so no worries. it was all just warning"
+    "it was a warning i issue. nothing bad."
+
+  The CEO's own announcement created a strike regime and stated that missing a
+  meeting would be counted as a strike. The complainant was told a strike had
+  been issued. The later statement that "there was no strikes given" is
+  inconsistent with the written policy and with the notice the complainant
+  received. At minimum, the CEO recharacterised the same measure from a strike
+  to a warning after the complainant objected.
+
+3.2  "You never reported that to us" versus the written leave notice
+
+  Leave notice (T-01, 2 November, 11:35 PM):
+    "I will be unavailable for PVR development for several more days due to
+    extensive construction work with my father. We anticipate this will take
+    approximately one week."
+
+  Later statement (P-07, 8:00 PM):
+    "u never reported that to us. how am i to know you where working yk."
+
+  The notice was posted approximately eighteen hours before the meeting. It was
+  in the channel. Even if the CEO did not personally read it, the claim that the
+  complainant "never reported" the work is contradicted by the record. The
+  CEO's own policy asked for direct-message proof of physical work; the leave
+  notice supplied the reason, and no such request appears in the supplied
+  record before the strike.
+
+3.3  "I just need proof" versus no opportunity to provide it
+
+  Written procedure (P-01):
+    "if you cannot attend due to reasons such as physcial work, medical issue,
+    or anything actually reasonable please dm me with PROOF, if no proof i will
+    count it as a strike"
+
+  Timeline (exhibit clock):
+    5:23 PM  announcement
+    5:29 PM  ping
+    6:55 PM  complainant returns from construction and replies
+    7:02 PM  strike notice
+
+  The complainant was at work for the period in question and replied as soon as
+  they returned. The strike was issued within minutes of that reply. On the
+  supplied record, no "dm me with PROOF" request appears before the penalty was
+  imposed. The complainant's leave notice was already the proof the policy
+  asked for.
+
+3.4  "I said ur good" versus "we can take down ur assets"
+
+  Same message (P-06/P-07, 8:03 PM):
+    "but since u told me u where working irl, i said ur [good]"
+    "well u can leave if thats how ur going to act. we can take donw ur assets
+    from the storage."
+    "but if your going to act rude/be rude then yes feel free to leave."
+
+  The CEO accepts the work explanation and says the complainant is "good", then
+  in the same message threatens to remove the complainant's assets because of
+  the complainant's tone. The condition attached to the threat is the
+  complainant's objection, not a policy violation. That is the core retaliation
+  evidence in this exhibit.
+
+  The record also shows the complainant did not attend at the time of the ping:
+  their 6:55 PM reply says they had "just got back from construction, so i can
+  attend soon", and the CEO's 8:03 PM message acknowledges "since u told me u
+  where working irl, i said ur good". The CEO therefore knew the complainant had
+  been at work and had not attended.
+
+3.5  The "advance notice" is a reaction, not a schedule
+
+  CEO's later account (Document 07):
+    "i did tell him and give him time in advanced, as he even reacted in a
+    thumbs up mind you"
+
+  Exhibit P-03:
+    a thumbs-up reaction by KittyFangs.exe on the meeting ping; no reaction
+    timestamp; no meeting schedule, agenda or notice period.
+
+  A reaction emoji does not show when it was added, does not show that the
+  person read the message, and does not show that the person agreed to attend.
+  The complainant states the reaction was added after returning from work. The
+  exhibit cannot establish timely notice.
+
+3.6  "It was just a warning" versus a "1 of 3" disciplinary record
+
+  The strike was communicated as "a strike (1 of 3)" (P-04), which describes a
+  graduated disciplinary record with two further steps. Calling it "just a
+  warning" after the fact does not erase the written threat, the recorded step,
+  or the consequence attached to it. The distinction matters because the
+  complainant's objection was to being placed on a disciplinary track at all.
+
+3.7  "Your contract does not count" versus "you are subject to our rules"
+
+  CEO statement (P-06, 7:58 PM):
+    "for u it doesnt really count ur contract, thats why it was a warning"
+
+  The same exchange treats the complainant as outside the contract for
+  protection purposes, while applying the company's mandatory-meeting and
+  strike rules to the complainant. A person cannot be outside the contract when
+  it limits the company's obligations and inside it when it imposes discipline.
+  This is the unilateral-policy problem described in Document 01, pattern 1.
+
+4. WHAT THE EXHIBITS ESTABLISH - AND WHAT THEY DO NOT
+--------------------------------------------------------------------------------
+On the narrow factual questions, the exhibits support the complainant:
+
+- Written notice of unavailability was given on 2 November at 11:35 PM, before
+  the meeting was announced.
+- The mandatory meeting and the strike threat were announced on 3 November with
+  same-day notice only.
+- The complainant was at construction work from 9:00 AM to 5:00 PM and replied
+  on returning.
+- The complainant was told a strike (1 of 3) had been issued.
+- The CEO then said no strike was given and that it was "just a warning".
+- The CEO said he did not know the complainant was working, although the leave
+  notice was in the record.
+- The CEO threatened to remove the complainant's assets in the same exchange in
+  which he said the complainant was "good".
+
+The exhibits do not, by themselves, establish:
+
+- whether the CEO personally read the leave notice;
+- the exact time the thumbs-up reaction was added;
+- whether the complainant attended any voice channel after replying;
+- the legal characterisation of the meeting policy (that is a question for
+  counsel, addressed in Documents 09 and 10);
+- the wider allegations of unpaid work, misappropriated code, ported worlds or
+  server access, which require the separate evidence described in Documents
+  01-11;
+- any loss or damage amount.
+
+5. LEGAL RELEVANCE - SUMMARY ONLY
+--------------------------------------------------------------------------------
+This section is a signpost, not legal advice. The authorities are set out in
+Documents 09 (United States) and 10 (international and common law).
+
+The 2-3 November sequence is relevant to:
+
+5.1  Unilateral policy and contract
+- A mandatory meeting and strike regime imposed during an existing engagement,
+  without a written contract term, may be a unilateral variation, a breach of
+  the implied covenant of good faith, or a breach of a separate studio-to-studio
+  agreement.
+- The CEO's statement that the contract "doesnt really count" for the
+  complainant, while applying the policy to the complainant, is evidence of the
+  inconsistency.
+
+5.2  Wage deductions and adverse action (if the complainant is an employee)
+- A "strike" that withholds pay, points, access or continued engagement may be
+  an unlawful deduction or an adverse action. See Document 09, sections 2-3,
+  and the state wage-deduction authorities (for example Cal. Lab. Code §§ 221,
+  224; N.Y. Lab. Law § 193).
+- For freelancers, the New York Freelance Isn't Free Act and the California
+  Freelance Worker Protection Act provide written-contract, timely-payment and
+  anti-retaliation protections regardless of employee status. See Document 09,
+  section 1.
+
+5.3  Retaliation
+- The asset-removal threat followed the complainant's objection to the policy.
+  If the objection is protected activity, the timing and the conditional threat
+  support a retaliation theory. See Document 09, section 3; Document 10,
+  section 9.
+- "Protected activity" is the contested element. Raising a contract or policy
+  concern is the complainant's theory; the CEO will likely argue it was
+  insubordination.
+
+5.4  Tortious interference and conversion
+- A threat to remove a contractor's stored assets can support a claim for
+  conversion, trespass to chattels, breach of contract or tortious interference
+  with business relations if the assets were removed or withheld. See Document
+  09, section 9.
+- Preserve the asset list, storage records and any deletion notices.
+
+5.5  Misrepresentation
+- The statement "there was no strikes given" is contradicted by the written
+  announcement and the strike notice. If the statement was relied on to the
+  complainant's detriment, it may support a misrepresentation theory. See
+  Document 09, section 6.
+
+5.6  Working time, rest and health
+- Same-day mandatory meetings that disrupt sleep and rest may engage working
+  time and health-and-safety rules in the UK, Canada, Australia, New Zealand,
+  Ireland and the EU. See Document 10, sections 1-6. The application depends on
+  the complainant's location, the company's location and the contract.
+
+6. AUTHENTICATION AND PRESERVATION
+--------------------------------------------------------------------------------
+The images are secondary captures of a Discord interface. To make them usable,
+preserve the originals and the context:
+
+1. Keep the original PNG files unedited. Do not crop, annotate or re-save over
+   them. Work on copies.
+2. Record the capture device, the Discord account, the server and channel, and
+   the timezone of the device.
+3. Export the channel history in Discord's JSON format, if available, so the
+   message IDs, authors, timestamps and reply links are preserved.
+4. Capture the full scroll around each message, not only the message bubble, so
+   the channel name, date dividers and surrounding messages are visible.
+5. Preserve the reaction state and, if possible, the reaction users list.
+6. Record SHA-256 hashes at capture and re-verify them before any filing. The
+   current hashes are in IMAGE-MANIFEST.txt.
+7. Keep a chain-of-custody note: who captured each image, when, on what device,
+   and where the original is stored.
+8. Do not upload private data, addresses, phone numbers, account numbers or
+   identity documents.
+
+The transcript in this document was produced with the Windows OCR engine and
+checked against the supplied message log. OCR can misread names, punctuation
+and digits. The images govern; the transcript is a reading aid.
+
+7. RIGHT OF REPLY
+--------------------------------------------------------------------------------
+The CEO and Parelllc are invited to respond to this exhibit. A response should
+address, at minimum:
+
+- the date and time the meeting was scheduled and announced;
+- whether a written schedule or agenda was provided before the meeting;
+- whether the complainant's 2 November leave notice was read;
+- whether any direct-message request for proof was sent before the strike;
+- whether a strike was recorded, and under what policy;
+- the meaning of "for u it doesnt really count ur contract";
+- the basis for the statement "we can take donw ur assets from the storage";
+- whether any assets were in fact removed or withheld.
+
+Corrections with sources will be recorded, not silently deleted.
+
+8. SOURCE MAP
+--------------------------------------------------------------------------------
+- Document 01 - executive summary; pattern 1 (policy imposed outside contract).
+- Document 02 - the complainant's formal complaint; the same events in narrative
+  form.
+- Document 03 - professional statement; wider allegations.
+- Documents 04-06 - public statements; the later escalation.
+- Document 07 - the later Gremix / eyeballs exchange; the "thumbs up" reference.
+- Document 08 - timeline and key facts; this exhibit supplies the pre-dispute
+  chronology.
+- Document 09 - United States authorities; sections 1-3, 5-6, 9.
+- Document 10 - international and common-law authorities; sections 1-6, 9.
+- Document 11 - parties and case register; identity consolidation.
+- Document 13 - the full supplied message log for 2-3 November 2026.
+- Image FIles/IMAGE-MANIFEST.txt - file names, SHA-256 hashes and descriptions.
+
+================================================================================
+END OF DOCUMENT 12
+================================================================================

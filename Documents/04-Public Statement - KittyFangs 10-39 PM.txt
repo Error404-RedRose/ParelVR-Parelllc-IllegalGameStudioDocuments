@@ -4,9 +4,19 @@ AUTHOR: KITTYFANGS.EXE (OP)
 POSTED: YESTERDAY AT 10:39 PM
 ================================================================================
 
-Context: Reproduced as part of the public-notice archive (Documents 01-11). This is
+Context: Reproduced as part of the public-notice archive (Documents 01-12). This is
 the author's statement, not a court order or finding of fact. It is not a claim of
 ownership by Twilight Studio over Parelllc or ParelVR.
+
+EVIDENTIARY CONTEXT
+--------------------------------------------------------------------------------
+This is the author's later public statement. The precipitating meeting and strike
+sequence is documented in Document 12. The statement's general claims about
+policies, bans, credit and content are the author's allegations; Document 12 is the
+primary evidence for the 2-3 November 2026 trigger.
+
+The author is the same individual previously using the name "eyeballs" and the
+Twilight Studio Head Administrator title.
 
 Note: This post is reproduced in full. The paragraphs beginning "Several
 companies have raised concerns..." and "If the owner is unable to resolve..."
@@ -85,6 +95,15 @@ of jurisdictions. Consequently, if I, five other groups, and numerous
 individuals who were removed and harassed for their work pursue legal action,
 the result will be a serious court case. This will not be a mere procedural
 matter; it will constitute a pursuit of justice with severe penalties.
+
+READING NOTE
+--------------------------------------------------------------------------------
+The statement is written in strong, figurative language ("karma", "adjudicated",
+"illegal game"). In this archive those are the author's characterisations. The
+specific factual sequence that can be checked against documents is the 2-3
+November 2026 meeting and strike record in Document 12. The wider allegations about
+files, frameworks, AI content and credit require the separate evidence referred to
+in Documents 01 and 08.
 
 ================================================================================
 END OF DOCUMENT 04
